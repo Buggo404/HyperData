@@ -321,6 +321,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.201.0.VNTEUXM": {
+					"os": "OS2.0.201.0.VNTEUXM",
+					"android": "15.0",
+					"release": "2025-06-23",
+					"recovery": "moon_eea_global-ota_full-OS2.0.201.0.VNTEUXM-user-15.0-5e31983d6e.zip",
+					"fastboot": ""
+				},
 				"OS2.0.5.0.VNTEUXM": {
 					"os": "OS2.0.5.0.VNTEUXM",
 					"android": "15.0",
@@ -523,6 +530,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.5.0.VNTIDXM": {
+					"os": "OS2.0.5.0.VNTIDXM",
+					"android": "15.0",
+					"release": "2025-06-23",
+					"recovery": "moon_id_global-ota_full-OS2.0.5.0.VNTIDXM-user-15.0-c8408ea1b4.zip",
+					"fastboot": ""
+				},
 				"OS2.0.4.0.VNTIDXM": {
 					"os": "OS2.0.4.0.VNTIDXM",
 					"android": "15.0",

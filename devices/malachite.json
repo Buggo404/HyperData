@@ -498,6 +498,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.202.0.VOOEUXM": {
+					"os": "OS2.0.202.0.VOOEUXM",
+					"android": "15.0",
+					"release": "2025-06-23",
+					"recovery": "malachite_eea_global-ota_full-OS2.0.202.0.VOOEUXM-user-15.0-64af230c45.zip",
+					"fastboot": ""
+				},
 				"OS2.0.4.0.VOOEUXM": {
 					"os": "OS2.0.4.0.VOOEUXM",
 					"android": "15.0",
@@ -995,6 +1002,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.2.0.VOOLMCR": {
+					"os": "OS2.0.2.0.VOOLMCR",
+					"android": "15.0",
+					"release": "2025-06-23",
+					"recovery": "malachite_lm_cr_global-ota_full-OS2.0.2.0.VOOLMCR-user-15.0-75f79ce0ea.zip",
+					"fastboot": "malachite_lm_cr_global_images_OS2.0.2.0.VOOLMCR_20250530.0000.00_15.0_lm_cr_1eeeae4667.tgz"
+				},
 				"OS1.0.5.0.UOOLMCR": {
 					"os": "OS1.0.5.0.UOOLMCR",
 					"android": "14.0",
