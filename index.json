@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-06-25 22:53:11",
+    "time": "2025-06-27 00:51:20",
     "developing": "no",
     "roms": [
       {
@@ -28,6 +28,14 @@
         "rom": "OS2.0.109.0.VMBEUXM"
       },
       {
+        "code": "aristotle",
+        "name": {
+          "zh": "小米 13T",
+          "en": "Xiaomi 13T"
+        },
+        "rom": "OS2.0.202.0.VMFEUXM"
+      },
+      {
         "code": "houji",
         "name": {
           "zh": "小米 14",
@@ -49,7 +57,23 @@
           "zh": "小米 15",
           "en": "Xiaomi 15"
         },
-        "rom": "OS2.0.201.0.VOCEUXM"
+        "rom": "OS2.0.106.0.VOCMIDC; OS2.0.201.0.VOCEUXM"
+      },
+      {
+        "code": "violin",
+        "name": {
+          "zh": "小米平板7S Pro 12.5",
+          "en": "Xiaomi Pad 7S Pro 12.5"
+        },
+        "rom": "OS2.0.208.0.VOTCNXM; OS2.0.203.0.VOTCNXM"
+      },
+      {
+        "code": "bixi",
+        "name": {
+          "zh": "小米 MIX Flip 2",
+          "en": "Xiaomi MIX Flip 2"
+        },
+        "rom": "OS2.0.108.0.VOHCNXM"
       },
       {
         "code": "ziyi",
@@ -58,6 +82,14 @@
           "en": "Xiaomi Civi 2"
         },
         "rom": "OS2.0.6.0.VLLMIXM; OS2.0.8.0.VLLEUXM; OS2.0.6.0.VLLRUXM"
+      },
+      {
+        "code": "luming",
+        "name": {
+          "zh": "小米 Civi 5 Pro",
+          "en": "Xiaomi Civi 5 Pro"
+        },
+        "rom": "OS2.0.201.0.VOICNXM"
       },
       {
         "code": "fire",
@@ -90,6 +122,14 @@
           "en": "Redmi 14R 5G / POCO M7 5G"
         },
         "rom": "OS2.0.5.0.VGUCNXM"
+      },
+      {
+        "code": "xaga",
+        "name": {
+          "zh": "Redmi Note 11T Pro/Pro+ / Redmi K50i / POCO X4 GT / Pro",
+          "en": "Redmi Note 11T Pro/Pro+ / Redmi K50i / POCO X4 GT / Pro"
+        },
+        "rom": "OS2.0.3.0.ULOMIXM; OS2.0.3.0.ULOINXM"
       },
       {
         "code": "ruby",
@@ -129,7 +169,7 @@
           "zh": "Redmi Note 13 Pro 5G / POCO X6 5G",
           "en": "Redmi Note 13 Pro 5G / POCO X6 5G"
         },
-        "rom": "OS2.0.9.0.VNRTWXM"
+        "rom": "OS2.0.9.0.VNRTWXM; OS2.0.12.0.VNREUXM"
       },
       {
         "code": "emerald",
@@ -169,7 +209,7 @@
           "zh": "Redmi Turbo 3 / POCO F6",
           "en": "Redmi Turbo 3 / POCO F6"
         },
-        "rom": "OS2.0.105.0.VNPMIXM; OS2.0.109.0.VNPEUXM"
+        "rom": "OS2.0.104.0.VNPTWXM; OS2.0.105.0.VNPMIXM; OS2.0.109.0.VNPEUXM; OS2.0.104.0.VNPRUXM; OS2.0.105.0.VNPINXM; OS2.0.104.0.VNPIDXM"
       },
       {
         "code": "rodin",
@@ -185,7 +225,7 @@
           "zh": "REDMI Turbo 4 Pro / POCO F7",
           "en": "REDMI Turbo 4 Pro / POCO F7"
         },
-        "rom": "OS2.0.101.0.VOLTWXM; OS2.0.101.0.VOLRUXM; OS2.0.101.0.VOLIDXM"
+        "rom": "OS2.0.101.0.VOLTWXM; OS2.0.103.0.VOLEUXM; OS2.0.101.0.VOLRUXM; OS2.0.101.0.VOLINXM; OS2.0.101.0.VOLIDXM"
       },
       {
         "code": "diting",
@@ -209,7 +249,7 @@
           "zh": "Redmi K70E / POCO X6 Pro 5G",
           "en": "Redmi K70E / POCO X6 Pro 5G"
         },
-        "rom": "OS2.0.201.0.VNLEUXM; OS2.0.104.0.VNLRUXM; OS2.0.104.0.VNLIDXM"
+        "rom": "OS2.0.104.0.VNLMIXM; OS2.0.201.0.VNLEUXM; OS2.0.104.0.VNLRUXM; OS2.0.104.0.VNLIDXM"
       },
       {
         "code": "rothko",
@@ -217,7 +257,7 @@
           "zh": "Redmi K70 至尊版 / 小米 14T Pro",
           "en": "Redmi K70 Ultra / Xiaomi 14T Pro"
         },
-        "rom": "OS2.0.202.0.VNNMIXM; OS2.0.203.0.VNNEUXM"
+        "rom": "OS2.0.202.0.VNNTWXM; OS2.0.202.0.VNNMIXM; OS2.0.203.0.VNNEUXM; OS2.0.202.0.VNNRUXM; OS2.0.202.0.VNNIDXM"
       },
       {
         "code": "zorn",
@@ -236,12 +276,28 @@
         "rom": "OS2.0.202.0.VOMEUXM"
       },
       {
+        "code": "dali",
+        "name": {
+          "zh": "REDMI K80 至尊版",
+          "en": "REDMI K80 Ultra"
+        },
+        "rom": "OS2.0.210.0.VONCNXM; OS2.0.208.0.VONCNXM"
+      },
+      {
         "code": "xun",
         "name": {
           "zh": "Redmi 平板 SE",
           "en": "Redmi Pad SE"
         },
-        "rom": "OS2.0.5.0.VMUMIXM"
+        "rom": "OS2.0.5.0.VMUMIXM; OS2.0.3.0.VMUINXM"
+      },
+      {
+        "code": "taiko",
+        "name": {
+          "zh": "REDMI 平板 2",
+          "en": "REDMI Pad 2"
+        },
+        "rom": "OS2.0.201.0.VOVEUXM"
       },
       {
         "code": "dizi",
@@ -258,6 +314,14 @@
           "en": "Redmi Pad Pro 5G / POCO Pad 5G"
         },
         "rom": "OS2.0.5.0.VFSMIXM; OS2.0.201.0.VFSEUXM"
+      },
+      {
+        "code": "turner",
+        "name": {
+          "zh": "REDMI K Pad",
+          "en": "REDMI K Pad"
+        },
+        "rom": "OS2.0.210.0.VAOCNXM; OS2.0.208.0.VAOCNXM; OS2.0.206.0.VAOCNXM"
       },
       {
         "code": "moonstone",
