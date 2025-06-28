@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-06-27 00:51:20",
+    "time": "2025-06-27 23:03:48",
     "developing": "no",
     "roms": [
       {
@@ -81,7 +81,7 @@
           "zh": "小米 Civi 2",
           "en": "Xiaomi Civi 2"
         },
-        "rom": "OS2.0.6.0.VLLMIXM; OS2.0.8.0.VLLEUXM; OS2.0.6.0.VLLRUXM"
+        "rom": "OS2.0.5.0.VLLTWXM; OS2.0.6.0.VLLMIXM; OS2.0.8.0.VLLEUXM; OS2.0.6.0.VLLRUXM; OS2.0.5.0.VLLTRXM"
       },
       {
         "code": "luming",
@@ -98,6 +98,14 @@
           "en": "Redmi 12"
         },
         "rom": "OS2.0.7.0.VMXEUXM"
+      },
+      {
+        "code": "earth",
+        "name": {
+          "zh": "Redmi 12C / POCO C55",
+          "en": "Redmi 12C / POCO C55"
+        },
+        "rom": "OS1.0.12.0.UCVMIXM; OS1.0.11.0.UCVEUXM"
       },
       {
         "code": "moon",
@@ -137,7 +145,7 @@
           "zh": "Redmi Note 12 Pro / Pro+ / 探索版",
           "en": "Redmi Note 12 Pro / Pro+ / Discovery 5G"
         },
-        "rom": "OS2.0.2.0.UMORUXM; OS2.0.3.0.UMOIDXM"
+        "rom": "OS2.0.4.0.UMOMIXM; OS2.0.2.0.UMORUXM; OS2.0.3.0.UMOIDXM"
       },
       {
         "code": "marble",
@@ -145,7 +153,7 @@
           "zh": "Redmi Note 12 Turbo / POCO F5",
           "en": "Redmi Note 12 Turbo / POCO F5"
         },
-        "rom": "OS2.0.3.0.VMREUXM"
+        "rom": "OS2.0.201.0.VMRCNXM; OS2.0.3.0.VMREUXM"
       },
       {
         "code": "tapas",
@@ -154,6 +162,14 @@
           "en": "Redmi Note 12 4G"
         },
         "rom": "OS2.0.1.0.VMTCLEN"
+      },
+      {
+        "code": "sweet_k6a",
+        "name": {
+          "zh": "Redmi Note 12 Pro 4G",
+          "en": "Redmi Note 12 Pro 4G"
+        },
+        "rom": "OS1.0.19.0.THGMIXM; OS1.0.24.0.THGEUXM; OS1.0.21.0.THGRUXM; OS1.0.19.0.THGIDXM; OS1.0.18.0.THGTRXM"
       },
       {
         "code": "gold",
@@ -169,7 +185,7 @@
           "zh": "Redmi Note 13 Pro 5G / POCO X6 5G",
           "en": "Redmi Note 13 Pro 5G / POCO X6 5G"
         },
-        "rom": "OS2.0.9.0.VNRTWXM; OS2.0.12.0.VNREUXM"
+        "rom": "OS2.0.9.0.VNRTWXM; OS2.0.11.0.VNRMIXM; OS2.0.12.0.VNREUXM; OS2.0.10.0.VNRRUXM; OS2.0.9.0.VNRIDXM; OS2.0.9.0.VNRTRXM"
       },
       {
         "code": "emerald",
@@ -178,6 +194,30 @@
           "en": "Redmi Note 13 Pro 4G / POCO M6 Pro"
         },
         "rom": "OS2.0.2.0.VNFMXAT"
+      },
+      {
+        "code": "zircon",
+        "name": {
+          "zh": "Redmi Note 13 Pro+ 5G",
+          "en": "Redmi Note 13 Pro+ 5G"
+        },
+        "rom": "OS2.0.201.0.VNOEUXM"
+      },
+      {
+        "code": "tanzanite",
+        "name": {
+          "zh": "Redmi Note 14 4G",
+          "en": "Redmi Note 14 4G"
+        },
+        "rom": "OS2.0.202.0.VOGEUXM"
+      },
+      {
+        "code": "beryl",
+        "name": {
+          "zh": "Redmi Note 14 5G / POCO M7 Pro 5G",
+          "en": "Redmi Note 14 5G / POCO M7 Pro 5G"
+        },
+        "rom": "OS2.0.202.0.VOQEUXM"
       },
       {
         "code": "malachite",
@@ -225,7 +265,7 @@
           "zh": "REDMI Turbo 4 Pro / POCO F7",
           "en": "REDMI Turbo 4 Pro / POCO F7"
         },
-        "rom": "OS2.0.101.0.VOLTWXM; OS2.0.103.0.VOLEUXM; OS2.0.101.0.VOLRUXM; OS2.0.101.0.VOLINXM; OS2.0.101.0.VOLIDXM"
+        "rom": "OS2.0.101.0.VOLTWXM; OS2.0.102.0.VOLMIXM; OS2.0.202.0.VOLEUXM; OS2.0.103.0.VOLEUXM; OS2.0.101.0.VOLRUXM; OS2.0.101.0.VOLINXM; OS2.0.101.0.VOLIDXM"
       },
       {
         "code": "diting",
@@ -289,7 +329,15 @@
           "zh": "Redmi 平板 SE",
           "en": "Redmi Pad SE"
         },
-        "rom": "OS2.0.5.0.VMUMIXM; OS2.0.3.0.VMUINXM"
+        "rom": "OS2.0.5.0.VMUMIXM; OS2.0.3.0.VMUEUXM; OS2.0.3.0.VMUINXM"
+      },
+      {
+        "code": "koto",
+        "name": {
+          "zh": "REDMI 平板 2 4G",
+          "en": "REDMI Pad 2 4G"
+        },
+        "rom": "OS2.0.202.0.VOWMIDC; OS2.0.201.0.VOWEUXM"
       },
       {
         "code": "taiko",
@@ -322,6 +370,14 @@
           "en": "REDMI K Pad"
         },
         "rom": "OS2.0.210.0.VAOCNXM; OS2.0.208.0.VAOCNXM; OS2.0.206.0.VAOCNXM"
+      },
+      {
+        "code": "serenity",
+        "name": {
+          "zh": "REDMI A5 / POCO C71",
+          "en": "REDMI A5 / POCO C71"
+        },
+        "rom": "A15.0.11.0.VGWMIXM"
       },
       {
         "code": "moonstone",
