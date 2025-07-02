@@ -283,6 +283,14 @@
 			"zone": "1",
 			"ep": "1",
 			"roms": {
+				"OS1.0.25.5.28.EP.CJCC.N16": {
+					"os": "OS1.0.25.5.28.EP.CJCC.N16",
+					"android": "14.0",
+					"release": "2025-07-01",
+					"recovery": "miui_GARNETEPCJCC_OS1.0.25.5.28.EP.CJCC.N16_3a58d19432_14.0.zip",
+					"fastboot": "garnet_ep_cjcc_images_OS1.0.25.5.28.EP.CJCC.N16_20250528.0000.00_14.0_cn_3d2ccb5a17.tgz",
+					"ctelecom": "garnet_ep_cjcc_images_OS1.0.25.5.28.EP.CJCC.N16_20250528.0000.00_14.0_cn_chinatelecom_30d2d1aa2b.tgz"
+				},
 				"OS1.0.24.7.8.EP.CJCC.N16": {
 					"os": "OS1.0.24.7.8.EP.CJCC.N16",
 					"android": "14.0",
@@ -327,7 +335,7 @@
 					"android": "15.0",
 					"release": "2025-06-24",
 					"recovery": "garnet_tw_global-ota_full-OS2.0.9.0.VNRTWXM-user-15.0-9261787430.zip",
-					"fastboot": ""
+					"fastboot": "garnet_tw_global_images_OS2.0.9.0.VNRTWXM_20250611.0000.00_15.0_tw_6f2c8a2bf5.tgz"
 				},
 				"OS2.0.8.0.VNRTWXM": {
 					"os": "OS2.0.8.0.VNRTWXM",
@@ -904,6 +912,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.9.0.VNRINXM": {
+					"os": "OS2.0.9.0.VNRINXM",
+					"android": "15.0",
+					"release": "2025-07-01",
+					"recovery": "garnet_in_global-ota_full-OS2.0.9.0.VNRINXM-user-15.0-efa3206748.zip",
+					"fastboot": ""
+				},
 				"OS2.0.8.0.VNRINXM": {
 					"os": "OS2.0.8.0.VNRINXM",
 					"android": "15.0",
@@ -1146,7 +1161,7 @@
 					"android": "15.0",
 					"release": "2025-06-27",
 					"recovery": "garnet_tr_global-ota_full-OS2.0.9.0.VNRTRXM-user-15.0-bee7298b01.zip",
-					"fastboot": ""
+					"fastboot": "garnet_tr_global_images_OS2.0.9.0.VNRTRXM_20250611.0000.00_15.0_tr_77ba53934a.tgz"
 				},
 				"OS2.0.8.0.VNRTRXM": {
 					"os": "OS2.0.8.0.VNRTRXM",
