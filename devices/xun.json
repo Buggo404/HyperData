@@ -600,7 +600,7 @@
 					"android": "15.0",
 					"release": "2025-06-26",
 					"recovery": "xun_in_global-ota_full-OS2.0.3.0.VMUINXM-user-15.0-8e25dcccb3.zip",
-					"fastboot": ""
+					"fastboot": "xun_in_global_images_OS2.0.3.0.VMUINXM_20250618.0000.00_15.0_in_65b5461937.tgz"
 				},
 				"OS2.0.1.0.VMUINXM": {
 					"os": "OS2.0.1.0.VMUINXM",
@@ -668,6 +668,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.3.0.VMUIDXM": {
+					"os": "OS2.0.3.0.VMUIDXM",
+					"android": "15.0",
+					"release": "2025-07-03",
+					"recovery": "xun_id_global-ota_full-OS2.0.3.0.VMUIDXM-user-15.0-b91c90f553.zip",
+					"fastboot": ""
+				},
 				"OS2.0.2.0.VMUIDXM": {
 					"os": "OS2.0.2.0.VMUIDXM",
 					"android": "15.0",
