@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-07-03 23:30:58",
+    "time": "2025-07-04 18:34:52",
     "developing": "no",
     "roms": [
       {
@@ -89,7 +89,15 @@
           "zh": "小米 15",
           "en": "Xiaomi 15"
         },
-        "rom": "OS2.0.230.6.WOCCNXM; OS2.0.107.0.VOCTWXM"
+        "rom": "OS2.0.230.6.WOCCNXM; OS2.0.212.0.VOCCNXM; OS2.0.107.0.VOCTWXM; OS2.0.217.0.WOCMIXM; OS2.0.217.0.WOCEUXM; OS2.0.107.0.VOCIDXM"
+      },
+      {
+        "code": "haotian",
+        "name": {
+          "zh": "小米 15 Pro",
+          "en": "Xiaomi 15 Pro"
+        },
+        "rom": "OS2.0.212.0.VOBCNXM"
       },
       {
         "code": "xuanyuan",
@@ -97,7 +105,7 @@
           "zh": "小米 15 Ultra",
           "en": "Xiaomi 15 Ultra"
         },
-        "rom": "OS2.0.210.0.VOACNXM; OS2.0.202.0.VOAEUXM"
+        "rom": "OS2.0.210.0.VOACNXM; OS2.0.202.0.VOATWXM; OS2.0.202.0.VOAEUXM; OS2.0.203.0.VOARUXM; OS2.0.202.0.VOAINXM; OS2.0.203.0.VOAIDXM"
       },
       {
         "code": "jinghu",
@@ -154,6 +162,14 @@
           "en": "Redmi 14C"
         },
         "rom": "OS2.0.202.0.VGTEUXM"
+      },
+      {
+        "code": "spes",
+        "name": {
+          "zh": "Redmi Note 11 国际版",
+          "en": "Redmi Note 11"
+        },
+        "rom": "OS1.0.6.0.TGCTRXM"
       },
       {
         "code": "ruby",
@@ -265,7 +281,15 @@
           "zh": "Redmi K60 / POCO F5 Pro",
           "en": "Redmi K60 / POCO F5 Pro"
         },
-        "rom": "OS2.0.5.0.VMNTWXM; OS2.0.7.0.VMNRUXM"
+        "rom": "OS2.0.5.0.VMNTWXM; OS2.0.7.0.VMNRUXM; OS2.0.5.0.VMNTRXM"
+      },
+      {
+        "code": "corot",
+        "name": {
+          "zh": "Redmi K60 至尊版 / 小米 13T Pro",
+          "en": "Redmi K60 Ultra / Xiaomi 13T Pro"
+        },
+        "rom": "OS2.0.200.0.VMLMIXM"
       },
       {
         "code": "vermeer",
@@ -273,7 +297,7 @@
           "zh": "Redmi K70 / POCO F6 Pro",
           "en": "Redmi K70 / POCO F6 Pro"
         },
-        "rom": "OS2.0.201.0.VNKMIXM"
+        "rom": "OS2.0.202.0.VNKTWXM; OS2.0.201.0.VNKMIXM; OS2.0.202.0.VNKRUXM"
       },
       {
         "code": "rothko",
@@ -282,6 +306,14 @@
           "en": "Redmi K70 Ultra / Xiaomi 14T Pro"
         },
         "rom": "OS2.0.204.0.VNNCNXM"
+      },
+      {
+        "code": "miro",
+        "name": {
+          "zh": "REDMI K80 Pro / POCO F7 Ultra",
+          "en": "REDMI K80 Pro / POCO F7 Ultra"
+        },
+        "rom": "OS2.0.203.0.VOMCNXM"
       },
       {
         "code": "xun",

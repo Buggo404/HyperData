@@ -213,6 +213,14 @@
 				"dada_images_OS2.0.12.0.VOCCNXM_20241026.0000.00_15.0_cn_chinatelecom_346b0a946b.tgz"
 			],
 			"roms": {
+				"OS2.0.212.0.VOCCNXM": {
+					"os": "OS2.0.212.0.VOCCNXM",
+					"android": "15.0",
+					"release": "2025-07-04",
+					"recovery": "dada-ota_full-OS2.0.212.0.VOCCNXM-user-15.0-9bc2d9499e.zip",
+					"fastboot": "",
+					"ctelecom": ""
+				},
 				"OS2.0.206.0.VOCCNXM": {
 					"os": "OS2.0.206.0.VOCCNXM",
 					"android": "15.0",
@@ -678,6 +686,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.217.0.WOCMIXM": {
+					"os": "OS2.0.217.0.WOCMIXM",
+					"android": "16.0",
+					"release": "2025-07-04",
+					"recovery": "dada_global-ota_full-OS2.0.217.0.WOCMIXM-user-16.0-0be7332545.zip",
+					"fastboot": ""
+				},
 				"OS2.0.114.0.VOCMIXM": {
 					"os": "OS2.0.114.0.VOCMIXM",
 					"android": "15.0",
@@ -849,6 +864,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.217.0.WOCEUXM": {
+					"os": "OS2.0.217.0.WOCEUXM",
+					"android": "16.0",
+					"release": "2025-07-04",
+					"recovery": "dada_eea_global-ota_full-OS2.0.217.0.WOCEUXM-user-16.0-5e73e57c79.zip",
+					"fastboot": ""
+				},
 				"OS2.0.201.0.VOCEUXM": {
 					"os": "OS2.0.201.0.VOCEUXM",
 					"android": "15.0",
@@ -1033,6 +1055,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.107.0.VOCIDXM": {
+					"os": "OS2.0.107.0.VOCIDXM",
+					"android": "15.0",
+					"release": "2025-07-04",
+					"recovery": "dada_id_global-ota_full-OS2.0.107.0.VOCIDXM-user-15.0-7970f6378d.zip",
+					"fastboot": ""
+				},
 				"OS2.0.104.0.VOCIDXM": {
 					"os": "OS2.0.104.0.VOCIDXM",
 					"android": "15.0",
