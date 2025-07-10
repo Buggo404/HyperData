@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-07-08 22:34:40",
+    "time": "2025-07-09 23:22:12",
     "developing": "no",
     "roms": [
       {
@@ -44,6 +44,14 @@
         "rom": "OS2.0.201.0.VNEIDXM"
       },
       {
+        "code": "xuanyuan",
+        "name": {
+          "zh": "小米 15 Ultra",
+          "en": "Xiaomi 15 Ultra"
+        },
+        "rom": "OS2.0.203.0.VOAMIDC"
+      },
+      {
         "code": "dijun",
         "name": {
           "zh": "小米 15S Pro",
@@ -76,6 +84,14 @@
         "rom": "OS2.0.4.0.VGPMXAT"
       },
       {
+        "code": "flame",
+        "name": {
+          "zh": "Redmi 14R 5G / POCO M7 5G",
+          "en": "Redmi 14R 5G / POCO M7 5G"
+        },
+        "rom": "OS2.0.201.0.VGUCNXM"
+      },
+      {
         "code": "emerald",
         "name": {
           "zh": "Redmi Note 13 Pro 4G / POCO M6 Pro",
@@ -97,7 +113,15 @@
           "zh": "Redmi Note 14 5G / POCO M7 Pro 5G",
           "en": "Redmi Note 14 5G / POCO M7 Pro 5G"
         },
-        "rom": "OS2.0.201.0.VOQMIXM; OS2.0.201.0.VOQIDXM"
+        "rom": "OS1.0.9.0.UOQCNXM; OS2.0.201.0.VOQMIXM; OS2.0.201.0.VOQIDXM"
+      },
+      {
+        "code": "malachite",
+        "name": {
+          "zh": "Redmi Note 14 Pro / POCO X7",
+          "en": "Redmi Note 14 Pro / POCO X7"
+        },
+        "rom": "OS2.0.1.0.VOOMXAT"
       },
       {
         "code": "rodin",
@@ -129,7 +153,15 @@
           "zh": "Redmi K70 至尊版 / 小米 14T Pro",
           "en": "Redmi K70 Ultra / Xiaomi 14T Pro"
         },
-        "rom": "OS2.0.205.0.VNNCNXM"
+        "rom": "OS2.0.205.0.VNNCNXM; OS2.0.214.0.WNNMIXM; OS2.0.214.0.WNNEUXM"
+      },
+      {
+        "code": "koto",
+        "name": {
+          "zh": "REDMI 平板 2 4G",
+          "en": "REDMI Pad 2 4G"
+        },
+        "rom": "OS2.0.200.0.VOWINXM"
       },
       {
         "code": "taiko",
@@ -138,6 +170,14 @@
           "en": "REDMI Pad 2"
         },
         "rom": "OS2.0.200.0.VOVINXM; OS2.0.102.0.VOVTRXM"
+      },
+      {
+        "code": "serenity",
+        "name": {
+          "zh": "REDMI A5 / POCO C71",
+          "en": "REDMI A5 / POCO C71"
+        },
+        "rom": "A15.0.3.0.VGWLMCR; A15.0.5.0.VGWLMMS"
       }
     ]
   }
