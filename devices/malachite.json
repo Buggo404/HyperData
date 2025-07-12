@@ -90,6 +90,14 @@
 					"fastboot": "malachite_images_OS2.0.5.0.VOOCNXM_20250110.0000.00_15.0_cn_9384ef9d51.tgz",
 					"ctelecom": "malachite_images_OS2.0.5.0.VOOCNXM_20250110.0000.00_15.0_cn_chinatelecom_41f0447410.tgz"
 				},
+				"OS1.0.13.0.UOOCNXM": {
+					"os": "OS1.0.13.0.UOOCNXM",
+					"android": "14.0",
+					"release": "2025-07-09",
+					"recovery": "miui_MALACHITE_OS1.0.13.0.UOOCNXM_e630a3e60c_14.0.zip",
+					"fastboot": "",
+					"ctelecom": ""
+				},
 				"OS1.0.12.0.UOOCNXM": {
 					"os": "OS1.0.12.0.UOOCNXM",
 					"android": "14.0",
@@ -1017,6 +1025,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.3.0.VOOLMCR": {
+					"os": "OS2.0.3.0.VOOLMCR",
+					"android": "15.0",
+					"release": "2025-07-11",
+					"recovery": "malachite_lm_cr_global-ota_full-OS2.0.3.0.VOOLMCR-user-15.0-a65d55f612.zip",
+					"fastboot": ""
+				},
 				"OS2.0.2.0.VOOLMCR": {
 					"os": "OS2.0.2.0.VOOLMCR",
 					"android": "15.0",
