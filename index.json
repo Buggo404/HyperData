@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-07-14 21:13:29",
+    "time": "2025-07-15 18:49:40",
     "developing": "no",
     "roms": [
       {
@@ -28,6 +28,14 @@
         "rom": "OS2.0.203.0.VNAEUXM"
       },
       {
+        "code": "yuechu",
+        "name": {
+          "zh": "小米 Civi 3",
+          "en": "Xiaomi Civi 3"
+        },
+        "rom": "OS2.0.203.0.VMICNXM"
+      },
+      {
         "code": "gale",
         "name": {
           "zh": "Redmi 13C 国际 / POCO C65",
@@ -52,6 +60,14 @@
         "rom": "OS2.0.6.0.UMSTWXM; OS2.0.8.0.UMSEUXM; OS2.0.5.0.UMSRUXM; OS2.0.7.0.UMSINXM; OS2.0.6.0.UMSIDXM; OS2.0.6.0.UMSTRXM"
       },
       {
+        "code": "marble",
+        "name": {
+          "zh": "Redmi Note 12 Turbo / POCO F5",
+          "en": "Redmi Note 12 Turbo / POCO F5"
+        },
+        "rom": "OS2.0.203.0.VMRCNXM"
+      },
+      {
         "code": "topaz",
         "name": {
           "zh": "Redmi Note 12 4G NFC",
@@ -73,7 +89,7 @@
           "zh": "Redmi Note 14 5G / POCO M7 Pro 5G",
           "en": "Redmi Note 14 5G / POCO M7 Pro 5G"
         },
-        "rom": "OS2.0.201.0.VOQRUXM; OS2.0.201.0.VOQINXM; OS2.0.201.0.VOQTRXM"
+        "rom": "OS2.0.201.0.VOQRUXM; OS2.0.201.0.VOQINXM; OS2.0.201.0.VOQTRXM; OS2.0.2.0.VOQLMCR"
       },
       {
         "code": "rodin",
@@ -90,6 +106,22 @@
           "en": "REDMI Turbo 4 Pro / POCO F7"
         },
         "rom": "OS2.0.103.0.VOLMIXM"
+      },
+      {
+        "code": "diting",
+        "name": {
+          "zh": "Redmi K50 至尊版 / 小米 12T Pro",
+          "en": "Redmi K50 Ultra / Xiaomi 12T Pro"
+        },
+        "rom": "OS2.0.203.0.VLFCNXM"
+      },
+      {
+        "code": "socrates",
+        "name": {
+          "zh": "Redmi K60 Pro",
+          "en": "Redmi K60 Pro"
+        },
+        "rom": "OS2.0.206.0.VMKCNXM"
       },
       {
         "code": "dizi",
