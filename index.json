@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-07-18 04:22:09",
+    "time": "2025-07-18 23:11:35",
     "developing": "no",
     "roms": [
       {
@@ -52,6 +52,14 @@
         "rom": "OS2.0.203.0.VLECNXM"
       },
       {
+        "code": "thor",
+        "name": {
+          "zh": "小米 12S Ultra",
+          "en": "Xiaomi 12S Ultra"
+        },
+        "rom": "OS2.0.202.0.VLACNXM"
+      },
+      {
         "code": "houji",
         "name": {
           "zh": "小米 14",
@@ -76,6 +84,30 @@
         "rom": "OS2.0.203.0.VNAEUXM"
       },
       {
+        "code": "dada",
+        "name": {
+          "zh": "小米 15",
+          "en": "Xiaomi 15"
+        },
+        "rom": "OS2.0.214.0.VOCCNXM; OS2.0.218.0.WOCMIXM; OS2.0.218.0.WOCEUXM"
+      },
+      {
+        "code": "haotian",
+        "name": {
+          "zh": "小米 15 Pro",
+          "en": "Xiaomi 15 Pro"
+        },
+        "rom": "OS2.0.214.0.VOBCNXM"
+      },
+      {
+        "code": "dijun",
+        "name": {
+          "zh": "小米 15S Pro",
+          "en": "Xiaomi 15S Pro"
+        },
+        "rom": "OS2.0.207.2.VODCNXM; OS2.0.207.0.VODCNXM"
+      },
+      {
         "code": "pipa",
         "name": {
           "zh": "小米平板 6",
@@ -92,6 +124,22 @@
         "rom": "OS2.0.213.0.VOTCNXM"
       },
       {
+        "code": "zizhan",
+        "name": {
+          "zh": "小米 MIX Fold 2",
+          "en": "Xiaomi MIX Fold 2"
+        },
+        "rom": "OS2.0.16.0.VLRCNXM"
+      },
+      {
+        "code": "babylon",
+        "name": {
+          "zh": "小米 MIX Fold 3",
+          "en": "Xiaomi MIX Fold 3"
+        },
+        "rom": "OS2.0.204.0.VMVCNXM"
+      },
+      {
         "code": "bixi",
         "name": {
           "zh": "小米 MIX Flip 2",
@@ -100,12 +148,28 @@
         "rom": "OS2.0.207.0.VOHCNXM"
       },
       {
+        "code": "ziyi",
+        "name": {
+          "zh": "小米 Civi 2",
+          "en": "Xiaomi Civi 2"
+        },
+        "rom": "OS2.0.202.0.VLLCNXM; OS2.0.8.0.VLLMIXM; OS2.0.10.0.VLLEUXM"
+      },
+      {
         "code": "yuechu",
         "name": {
           "zh": "小米 Civi 3",
           "en": "Xiaomi Civi 3"
         },
         "rom": "OS2.0.203.0.VMICNXM"
+      },
+      {
+        "code": "fire",
+        "name": {
+          "zh": "Redmi 12 国际",
+          "en": "Redmi 12"
+        },
+        "rom": "OS2.0.201.0.VMXIDXM"
       },
       {
         "code": "gale",
@@ -212,6 +276,14 @@
         "rom": "OS2.0.201.0.VOORUXM; OS2.0.201.0.VOOTRXM"
       },
       {
+        "code": "peridot",
+        "name": {
+          "zh": "Redmi Turbo 3 / POCO F6",
+          "en": "Redmi Turbo 3 / POCO F6"
+        },
+        "rom": "OS2.0.203.0.VNPCNXM"
+      },
+      {
         "code": "rodin",
         "name": {
           "zh": "REDMI Turbo 4 / POCO X7 Pro",
@@ -249,7 +321,7 @@
           "zh": "Redmi K70E / POCO X6 Pro 5G",
           "en": "Redmi K70E / POCO X6 Pro 5G"
         },
-        "rom": "OS2.0.201.0.VNLIDXM"
+        "rom": "OS2.0.200.0.VNLTWXM; OS2.0.201.0.VNLRUXM; OS2.0.201.0.VNLIDXM"
       },
       {
         "code": "vermeer",
@@ -265,7 +337,7 @@
           "zh": "REDMI K80 至尊版",
           "en": "REDMI K80 Ultra"
         },
-        "rom": "OS2.0.211.0.VONCNXM"
+        "rom": "OS2.0.213.0.VONCNXM; OS2.0.211.0.VONCNXM"
       },
       {
         "code": "dizi",
@@ -273,7 +345,15 @@
           "zh": "Redmi Pad Pro / 哈利·波特版 / POCO Pad",
           "en": "Redmi Pad Pro / Special Edition featuring Harry Potter / POCO Pad"
         },
-        "rom": "OS2.0.201.0.VNSMIXM"
+        "rom": "OS2.0.201.0.VNSMIXM; OS2.0.201.0.VNSINXM"
+      },
+      {
+        "code": "ruan",
+        "name": {
+          "zh": "Redmi Pad Pro 5G / POCO Pad 5G",
+          "en": "Redmi Pad Pro 5G / POCO Pad 5G"
+        },
+        "rom": "OS2.0.201.0.VFSMIXM"
       },
       {
         "code": "serenity",
