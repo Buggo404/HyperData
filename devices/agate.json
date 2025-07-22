@@ -152,6 +152,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS1.0.16.0.UKWMIXM": {
+					"os": "OS1.0.16.0.UKWMIXM",
+					"android": "14.0",
+					"release": "2025-07-21",
+					"recovery": "miui_AGATEGlobal_OS1.0.16.0.UKWMIXM_8994e7a464_14.0.zip",
+					"fastboot": ""
+				},
 				"OS1.0.15.0.UKWMIXM": {
 					"os": "OS1.0.15.0.UKWMIXM",
 					"android": "14.0",
@@ -912,7 +919,7 @@
 					"android": "14.0",
 					"release": "2025-07-11",
 					"recovery": "miui_AGATERUGlobal_OS1.0.14.0.UKWRUXM_b71f696436_14.0.zip",
-					"fastboot": ""
+					"fastboot": "agate_ru_global_images_OS1.0.14.0.UKWRUXM_20250701.0000.00_14.0_ru_0d043301b6.tgz"
 				},
 				"OS1.0.12.0.UKWRUXM": {
 					"os": "OS1.0.12.0.UKWRUXM",
