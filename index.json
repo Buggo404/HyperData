@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-07-21 22:00:50",
+    "time": "2025-07-23 01:17:22",
     "developing": "no",
     "roms": [
       {
@@ -9,7 +9,7 @@
           "zh": "小米 11T",
           "en": "Xiaomi 11T"
         },
-        "rom": "OS1.0.16.0.UKWMIXM"
+        "rom": "OS1.0.16.0.UKWMIXM; OS1.0.13.0.UKWIDXM"
       },
       {
         "code": "cupid",
@@ -34,6 +34,14 @@
           "en": "Xiaomi 13 Ultra"
         },
         "rom": "OS2.0.203.0.VMAMIXM"
+      },
+      {
+        "code": "shennong",
+        "name": {
+          "zh": "小米 14 Pro / Ti / 钛金属卫星通讯版",
+          "en": "Xiaomi 14 Pro / Ti / Satellite"
+        },
+        "rom": "OS2.0.208.3.VNBCNXM"
       },
       {
         "code": "aurora",
@@ -68,6 +76,22 @@
         "rom": "OS2.0.208.0.VOHCNXM"
       },
       {
+        "code": "ziyi",
+        "name": {
+          "zh": "小米 Civi 2",
+          "en": "Xiaomi Civi 2"
+        },
+        "rom": "OS2.0.7.0.VLLTWXM"
+      },
+      {
+        "code": "fire",
+        "name": {
+          "zh": "Redmi 12 国际",
+          "en": "Redmi 12"
+        },
+        "rom": "OS2.0.6.0.VMXMXAT"
+      },
+      {
         "code": "moon",
         "name": {
           "zh": "Redmi 13 / POCO M6 4G",
@@ -97,7 +121,23 @@
           "zh": "Redmi Note 13 5G / 13R Pro / POCO X6 Neo 5G",
           "en": "Redmi Note 13 5G / 13R Pro / POCO X6 Neo 5G"
         },
-        "rom": "OS2.0.8.0.VNQIDXM"
+        "rom": "OS2.0.8.0.VNQIDXM; OS2.0.7.0.VNQTRXM"
+      },
+      {
+        "code": "emerald",
+        "name": {
+          "zh": "Redmi Note 13 Pro 4G / POCO M6 Pro",
+          "en": "Redmi Note 13 Pro 4G / POCO M6 Pro"
+        },
+        "rom": "OS2.0.204.0.VNFMIXM; OS2.0.206.0.VNFRUXM; OS2.0.203.0.VNFIDXM; OS2.0.203.0.VNFTRXM"
+      },
+      {
+        "code": "obsidian",
+        "name": {
+          "zh": "Redmi Note 14 Pro 4G",
+          "en": "Redmi Note 14 Pro 4G"
+        },
+        "rom": "OS2.0.201.0.VOFMIXM; OS2.0.201.0.VOFRUXM; OS2.0.1.0.VOFMXAT"
       },
       {
         "code": "malachite",
@@ -105,7 +145,7 @@
           "zh": "Redmi Note 14 Pro / POCO X7",
           "en": "Redmi Note 14 Pro / POCO X7"
         },
-        "rom": "OS2.0.201.0.VOOTWXM; OS2.0.203.0.VOOMIXM; OS2.0.202.0.VOOINXM; OS2.0.201.0.VOOIDXM"
+        "rom": "OS2.0.201.0.VOOTWXM; OS2.0.203.0.VOOMIXM; OS2.0.204.0.VOOEUXM; OS2.0.202.0.VOOINXM; OS2.0.201.0.VOOIDXM"
       },
       {
         "code": "sapphire",
@@ -116,6 +156,30 @@
         "rom": "OS2.0.201.0.VNGMIXM"
       },
       {
+        "code": "sapphiren",
+        "name": {
+          "zh": "Redmi Note 13 NFC",
+          "en": "Redmi Note 13 NFC"
+        },
+        "rom": "OS2.0.201.0.VNHMIXM"
+      },
+      {
+        "code": "rodin",
+        "name": {
+          "zh": "REDMI Turbo 4 / POCO X7 Pro",
+          "en": "REDMI Turbo 4 / POCO X7 Pro"
+        },
+        "rom": "OS2.0.203.0.VOJEUXM"
+      },
+      {
+        "code": "onyx",
+        "name": {
+          "zh": "REDMI Turbo 4 Pro / POCO F7",
+          "en": "REDMI Turbo 4 Pro / POCO F7"
+        },
+        "rom": "OS2.0.209.0.VOLCNXM; OS2.0.102.0.VOLTWXM; OS2.0.102.0.VOLRUXM; OS2.0.102.0.VOLIDXM"
+      },
+      {
         "code": "vermeer",
         "name": {
           "zh": "Redmi K70 / POCO F6 Pro",
@@ -124,12 +188,28 @@
         "rom": "OS2.0.204.0.VNKEUXM"
       },
       {
+        "code": "miro",
+        "name": {
+          "zh": "REDMI K80 Pro / POCO F7 Ultra",
+          "en": "REDMI K80 Pro / POCO F7 Ultra"
+        },
+        "rom": "OS2.0.203.0.VOMEUXM"
+      },
+      {
         "code": "dizi",
         "name": {
           "zh": "Redmi Pad Pro / 哈利·波特版 / POCO Pad",
           "en": "Redmi Pad Pro / Special Edition featuring Harry Potter / POCO Pad"
         },
-        "rom": "OS2.0.201.0.VNSRUXM"
+        "rom": "OS2.0.201.0.VNSRUXM; OS2.0.201.0.VNSTRXM"
+      },
+      {
+        "code": "ruan",
+        "name": {
+          "zh": "Redmi Pad Pro 5G / POCO Pad 5G",
+          "en": "Redmi Pad Pro 5G / POCO Pad 5G"
+        },
+        "rom": "OS2.0.201.0.VFSINXM"
       }
     ]
   }
