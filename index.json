@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-07-29 22:17:18",
+    "time": "2025-07-30 17:44:39",
     "developing": "no",
     "roms": [
       {
@@ -44,6 +44,22 @@
         "rom": "OS2.0.200.0.VOCINXM"
       },
       {
+        "code": "dijun",
+        "name": {
+          "zh": "小米 15S Pro",
+          "en": "Xiaomi 15S Pro"
+        },
+        "rom": "OS2.0.207.4.VODCNXM"
+      },
+      {
+        "code": "liuqin",
+        "name": {
+          "zh": "小米平板 6 Pro",
+          "en": "Xiaomi Pad 6 Pro"
+        },
+        "rom": "OS2.0.207.0.VMYCNXM"
+      },
+      {
         "code": "sheng",
         "name": {
           "zh": "小米平板 6S Pro 12.4",
@@ -57,7 +73,7 @@
           "zh": "小米 MIX Flip",
           "en": "Xiaomi MIX Flip"
         },
-        "rom": "OS2.0.201.0.VNIRUXM"
+        "rom": "OS2.0.201.0.VNITWXM; OS2.0.201.0.VNIRUXM"
       },
       {
         "code": "earth",
@@ -76,6 +92,22 @@
         "rom": "OS2.0.201.0.VGQMIXM"
       },
       {
+        "code": "light",
+        "name": {
+          "zh": "Redmi 10 5G/Redmi 11 Prime 5G/Redmi Note 11E/POCO M4 5G",
+          "en": "Redmi 10 5G/Redmi 11 Prime 5G/Redmi Note 11E/POCO M4 5G"
+        },
+        "rom": "OS1.0.18.0.ULSEUVF"
+      },
+      {
+        "code": "spesn",
+        "name": {
+          "zh": "Redmi Note 11 NFC",
+          "en": "Redmi Note 11 NFC"
+        },
+        "rom": "OS1.0.16.0.TGKEUVF"
+      },
+      {
         "code": "ruby",
         "name": {
           "zh": "Redmi Note 12 Pro / Pro+ / 探索版",
@@ -92,6 +124,14 @@
         "rom": "OS2.0.202.0.VHZTWXM; OS2.0.202.0.VHZRUXM"
       },
       {
+        "code": "beryl",
+        "name": {
+          "zh": "Redmi Note 14 5G / POCO M7 Pro 5G",
+          "en": "Redmi Note 14 5G / POCO M7 Pro 5G"
+        },
+        "rom": "OS2.0.201.0.VOQMIDC"
+      },
+      {
         "code": "amethyst",
         "name": {
           "zh": "Redmi Note 14 Pro+",
@@ -106,6 +146,14 @@
           "en": "Redmi Note 13 NFC"
         },
         "rom": "OS2.0.201.0.VNHRUXM"
+      },
+      {
+        "code": "emerald_r",
+        "name": {
+          "zh": "Redmi Note 14s",
+          "en": "Redmi Note 14s"
+        },
+        "rom": "OS2.0.203.0.VFOMIXM"
       },
       {
         "code": "peridot",
@@ -153,7 +201,7 @@
           "zh": "REDMI A5 / POCO C71",
           "en": "REDMI A5 / POCO C71"
         },
-        "rom": "A15.0.4.0.VGWMXAT"
+        "rom": "A15.0.7.0.VGWMIDC; A15.0.4.0.VGWMXAT"
       }
     ]
   }
