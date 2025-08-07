@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-08-05 23:11:03",
+    "time": "2025-08-06 23:09:11",
     "developing": "no",
     "roms": [
       {
@@ -100,12 +100,28 @@
         "rom": "OS2.0.9.0.VNQEUXM; OS2.0.3.0.VNQLMCR"
       },
       {
+        "code": "garnet",
+        "name": {
+          "zh": "Redmi Note 13 Pro 5G / POCO X6 5G",
+          "en": "Redmi Note 13 Pro 5G / POCO X6 5G"
+        },
+        "rom": "OS2.0.6.0.VNRLMCR"
+      },
+      {
+        "code": "emerald",
+        "name": {
+          "zh": "Redmi Note 13 Pro 4G / POCO M6 Pro",
+          "en": "Redmi Note 13 Pro 4G / POCO M6 Pro"
+        },
+        "rom": "OS2.0.202.0.VNFMIDC"
+      },
+      {
         "code": "zircon",
         "name": {
           "zh": "Redmi Note 13 Pro+ 5G",
           "en": "Redmi Note 13 Pro+ 5G"
         },
-        "rom": "OS2.0.202.0.VNOEUXM; OS2.0.202.0.VNORUXM; OS2.0.204.0.VNOINXM; OS2.0.202.0.VNOIDXM; OS2.0.202.0.VNOTRXM"
+        "rom": "OS2.0.202.0.VNOEUXM; OS2.0.202.0.VNORUXM; OS2.0.204.0.VNOINXM; OS2.0.202.0.VNOIDXM; OS2.0.202.0.VNOTRXM; OS2.0.201.0.VNOLMCR"
       },
       {
         "code": "tanzanite",
@@ -132,6 +148,14 @@
         "rom": "OS2.0.200.0.VNPIDXM"
       },
       {
+        "code": "onyx",
+        "name": {
+          "zh": "REDMI Turbo 4 Pro / POCO F7",
+          "en": "REDMI Turbo 4 Pro / POCO F7"
+        },
+        "rom": "OS2.0.204.0.VOLEUXM"
+      },
+      {
         "code": "diting",
         "name": {
           "zh": "Redmi K50 至尊版 / 小米 12T Pro",
@@ -146,6 +170,14 @@
           "en": "Redmi K70E / POCO X6 Pro 5G"
         },
         "rom": "OS2.0.209.0.VNLCNXM"
+      },
+      {
+        "code": "manet",
+        "name": {
+          "zh": "Redmi K70 Pro",
+          "en": "Redmi K70 Pro"
+        },
+        "rom": "OS2.0.205.0.VNMCNXM"
       },
       {
         "code": "warm",
