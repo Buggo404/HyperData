@@ -1,8 +1,16 @@
 {
   "recent": {
-    "time": "2025-08-15 19:49:33",
+    "time": "2025-08-16 20:46:22",
     "developing": "no",
     "roms": [
+      {
+        "code": "lisa",
+        "name": {
+          "zh": "小米 11 青春活力版 / 小米 11 Lite 5G NE",
+          "en": "Mi 11 LE / Xiaomi 11 Lite 5G NE"
+        },
+        "rom": "OS1.0.11.0.UKOEUTF"
+      },
       {
         "code": "agate",
         "name": {
@@ -73,7 +81,7 @@
           "zh": "小米 15 Ultra",
           "en": "Xiaomi 15 Ultra"
         },
-        "rom": "OS2.0.213.2.VOACNXM; OS2.0.204.0.VOARUXM"
+        "rom": "OS2.0.213.2.VOACNXM; OS2.0.215.0.VOACNXM; OS2.0.204.0.VOARUXM"
       },
       {
         "code": "ruyi",
@@ -82,6 +90,14 @@
           "en": "Xiaomi MIX Flip"
         },
         "rom": "OS2.0.208.0.VNICNXM"
+      },
+      {
+        "code": "earth",
+        "name": {
+          "zh": "Redmi 12C / POCO C55",
+          "en": "Redmi 12C / POCO C55"
+        },
+        "rom": "OS1.0.13.0.UCVEUTF"
       },
       {
         "code": "moon",
@@ -129,7 +145,15 @@
           "zh": "Redmi Note 13 5G / 13R Pro / POCO X6 Neo 5G",
           "en": "Redmi Note 13 5G / 13R Pro / POCO X6 Neo 5G"
         },
-        "rom": "OS2.0.206.0.VNQMIXM"
+        "rom": "OS2.0.206.0.VNQMIXM; OS2.0.203.0.VNQEUXM"
+      },
+      {
+        "code": "breeze",
+        "name": {
+          "zh": "Redmi Note 13R 5G / Redmi 13 5G / POCO M6 Plus 5G",
+          "en": "Redmi Note 13R 5G / Redmi 13 5G / POCO M6 Plus 5G"
+        },
+        "rom": "OS2.0.201.0.VNUINXM"
       },
       {
         "code": "emerald",
@@ -153,7 +177,7 @@
           "zh": "Redmi Turbo 3 / POCO F6",
           "en": "Redmi Turbo 3 / POCO F6"
         },
-        "rom": "OS2.0.200.0.VNPTWXM; OS2.0.200.0.VNPINXM"
+        "rom": "OS2.0.200.0.VNPTWXM; OS2.0.200.0.VNPRUXM; OS2.0.200.0.VNPINXM"
       },
       {
         "code": "diting",
@@ -162,6 +186,14 @@
           "en": "Redmi K50 Ultra / Xiaomi 12T Pro"
         },
         "rom": "OS1.0.17.0.ULFJPXM"
+      },
+      {
+        "code": "corot",
+        "name": {
+          "zh": "Redmi K60 至尊版 / 小米 13T Pro",
+          "en": "Redmi K60 Ultra / Xiaomi 13T Pro"
+        },
+        "rom": "OS2.0.204.0.VMLEUXM"
       },
       {
         "code": "duchamp",
