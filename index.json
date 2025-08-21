@@ -1,15 +1,23 @@
 {
   "recent": {
-    "time": "2025-08-19 20:30:11",
+    "time": "2025-08-20 20:10:03",
     "developing": "no",
     "roms": [
+      {
+        "code": "vili",
+        "name": {
+          "zh": "小米 11T Pro",
+          "en": "Xiaomi 11T Pro"
+        },
+        "rom": "OS1.0.12.0.UKDEUTF"
+      },
       {
         "code": "ishtar",
         "name": {
           "zh": "小米 13 Ultra",
           "en": "Xiaomi 13 Ultra"
         },
-        "rom": "OS2.0.200.0.VMATWXM; OS2.0.201.0.VMAEUXM; OS2.0.200.0.VMARUXM"
+        "rom": "OS2.0.205.0.VMACNXM; OS2.0.200.0.VMATWXM; OS2.0.201.0.VMAEUXM; OS2.0.200.0.VMARUXM"
       },
       {
         "code": "aristotle",
@@ -25,7 +33,7 @@
           "zh": "小米 14 Ultra / Ultra Ti",
           "en": "Xiaomi 14 Ultra"
         },
-        "rom": "OS2.0.202.0.VNATWXM"
+        "rom": "OS2.0.202.0.VNATWXM; OS2.0.202.0.VNATRXM"
       },
       {
         "code": "pipa",
@@ -36,12 +44,28 @@
         "rom": "OS2.0.6.0.UMZTRXM"
       },
       {
+        "code": "violin",
+        "name": {
+          "zh": "小米平板7S Pro 12.5",
+          "en": "Xiaomi Pad 7S Pro 12.5"
+        },
+        "rom": "OS2.0.214.0.VOTCNXM"
+      },
+      {
         "code": "creek",
         "name": {
           "zh": "REDMI 15 4G",
           "en": "REDMI 15 4G"
         },
         "rom": "OS2.0.202.0.VBOTWXM"
+      },
+      {
+        "code": "spesn",
+        "name": {
+          "zh": "Redmi Note 11 NFC",
+          "en": "Redmi Note 11 NFC"
+        },
+        "rom": "OS1.0.10.0.TGKEUOR"
       },
       {
         "code": "pearl",
@@ -65,7 +89,7 @@
           "zh": "Redmi Note 12 4G",
           "en": "Redmi Note 12 4G"
         },
-        "rom": "OS2.0.201.0.VMTMIXM"
+        "rom": "OS2.0.201.0.VMTMIXM; OS2.0.5.0.VMTLMMS"
       },
       {
         "code": "sea",
@@ -84,12 +108,52 @@
         "rom": "OS2.0.204.0.VNQINXM"
       },
       {
+        "code": "emerald",
+        "name": {
+          "zh": "Redmi Note 13 Pro 4G / POCO M6 Pro",
+          "en": "Redmi Note 13 Pro 4G / POCO M6 Pro"
+        },
+        "rom": "OS2.0.203.0.VNFMIDC"
+      },
+      {
+        "code": "tanzanite",
+        "name": {
+          "zh": "Redmi Note 14 4G",
+          "en": "Redmi Note 14 4G"
+        },
+        "rom": "OS2.0.201.0.VOGLMCR"
+      },
+      {
+        "code": "obsidian",
+        "name": {
+          "zh": "Redmi Note 14 Pro 4G",
+          "en": "Redmi Note 14 Pro 4G"
+        },
+        "rom": "OS2.0.201.0.VOFLMCR"
+      },
+      {
         "code": "beryl",
         "name": {
           "zh": "Redmi Note 14 5G / POCO M7 Pro 5G",
           "en": "Redmi Note 14 5G / POCO M7 Pro 5G"
         },
         "rom": "OS2.0.205.0.VOQMIXM"
+      },
+      {
+        "code": "malachite",
+        "name": {
+          "zh": "Redmi Note 14 Pro / POCO X7",
+          "en": "Redmi Note 14 Pro / POCO X7"
+        },
+        "rom": "OS2.0.204.0.VOOJPXM"
+      },
+      {
+        "code": "amethyst",
+        "name": {
+          "zh": "Redmi Note 14 Pro+",
+          "en": "Redmi Note 14 Pro+"
+        },
+        "rom": "OS2.0.209.0.VOPCNXM"
       },
       {
         "code": "corot",
@@ -124,6 +188,14 @@
         "rom": "OS2.0.213.0.VOKCNXM"
       },
       {
+        "code": "dali",
+        "name": {
+          "zh": "REDMI K80 至尊版",
+          "en": "REDMI K80 Ultra"
+        },
+        "rom": "OS2.0.218.0.VONCNXM"
+      },
+      {
         "code": "yunluo",
         "name": {
           "zh": "Redmi 平板",
@@ -153,7 +225,7 @@
           "zh": "REDMI A5 / POCO C71",
           "en": "REDMI A5 / POCO C71"
         },
-        "rom": "A15.0.6.0.VGWGTTG"
+        "rom": "A15.0.12.0.VGWMIXM; A15.0.7.0.VGWRUXM; A15.0.6.0.VGWGTTG"
       },
       {
         "code": "moonstone",
