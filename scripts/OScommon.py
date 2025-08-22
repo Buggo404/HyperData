@@ -106,8 +106,8 @@ miui_iv = b"0102030405060708"
 check_url = "https://update.miui.com/updates/miotaV3.php"
 
 
-unreleased = ['popsicle', 'pudding', 'pandora', 'piano', 'yupei', 'annibale', 'myron', 'nezha', 'floutire', 'lapis', 'kunzite', 'coral', 'goya', 'klimt']
-currentStable = ['lapis', 'kunzite', 'coral', 'floutire', 'creek', 'spring', 'taiko', 'bixi', 'dali', 'turner', 'goya', 'klimt', 'violin', 'koto', 'dijun', 'jinghu', 'luming', 
+unreleased = ['lapis', 'kunzite', 'coral', 'flourite', 'popsicle', 'pudding', 'pandora', 'piano', 'yupei', 'annibale', 'myron', 'nezha', 'goya', 'klimt']
+currentStable = ['lapis', 'kunzite', 'coral', 'flourite', 'creek', 'spring', 'taiko', 'bixi', 'dali', 'turner', 'goya', 'klimt', 'violin', 'koto', 'dijun', 'jinghu', 'luming', 
 								 'onyx', 'poussin', 'citrine', 'serenity', 'emerald_r', 'miro', 'zorn', 'xuanyuan', 'tanzanite', 'obsidian', 'rodin', 'warm', 'dada', 'haotian', 'uke', 'muyu', 
 								 'beryl', 'amethyst', 'malachite', 'degas', 'rothko', 'flame', 'lake', 'flare', 'spark', 
 								 'ruyi', 'goku', 'agate', 'air', 'alioth', 'ares', 'aristotle', 'aurora', 'babylon', 'breeze', 'cas',
@@ -138,7 +138,7 @@ order = ['umi', 'cmi', 'cas', 'thyme', 'venus', 'star', 'lisa', 'pissarro_in', '
 				 'zijin', 'ziyi', 'yuechu', 'chenfeng', 'luming',
 				 'fire', 'earth', 'sky', 'gale', 'moon', 'air', 'lake', 'flame', 'creek', 'spring', 'evergo', 'light', 'lightcm', 'veux', 'xaga', 'pissarro',
 				 'spes', 'spesn', 'viva', 'vida', 'fleur', 'opal', 'sunstone', 'ruby', 'redwood', 'pearl', 'marble', 'tapas', 'topaz',
-				 'sweet_k6a', 'sea', 'gold', 'breeze', 'garnet', 'emerald', 'zircon', 'tanzanite', 'obsidian', 'beryl', 'malachite', 'amethyst', 'sapphire', 'sapphiren', 'emerald_r', 'peridot', 'rodin','onyx', 'alioth',
+				 'sweet_k6a', 'sea', 'gold', 'breeze', 'garnet', 'emerald', 'zircon', 'tanzanite', 'obsidian', 'beryl', 'malachite', 'amethyst', 'sapphire', 'sapphiren', 'emerald_r', 'lapis', 'kunzite', 'coral', 'flourite', 'peridot', 'rodin','onyx', 'alioth',
 				 'haydn', 'ares', 'munch', 'rubens', 'matisse', 'ingres', 'diting', 'rembrandt', 'mondrian', 'socrates', 'corot', 'duchamp',
 				 'vermeer', 'manet', 'rothko', 'zorn', 'miro', 'dali',
 				 'yunluo', 'xun', 'flare', 'spark', 'koto', 'taiko', 'dizi', 'ruan', 'turner', 'warm', 'serenity', 'evergreen', 'rock', 'moonstone']
@@ -381,6 +381,8 @@ flags = {
 	"HOUJI": "houji",
 	"HOUJIDEMO": "houji",
 	"houji": "houji",
+	"flourite_demo": "flourite",
+	"flourite": "flourite",
 	"houji_demo": "houji",
 	"houji_global": "houji",
 	"HOUJIGlobal": "houji",
@@ -409,6 +411,8 @@ flags = {
 	"serenity_global": "serenity",
 	"MALACHITEIDGlobal":"malachite",
 	"malachite_id_global":"malachite",
+	"kunzite": "kunzite",
+	"kunzite_demo": "kunzite",
 	"tanzanite_tw_global": "tanzanite",
 	"TANZANITETWGlobal": "tanzanite",
 	"TANZANITERUGlobal":"tanzanite",
