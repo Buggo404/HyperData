@@ -138,7 +138,7 @@ order = ['umi', 'cmi', 'cas', 'thyme', 'venus', 'star', 'lisa', 'pissarro_in', '
 				 'zijin', 'ziyi', 'yuechu', 'chenfeng', 'luming',
 				 'fire', 'earth', 'sky', 'gale', 'moon', 'air', 'lake', 'flame', 'creek', 'spring', 'evergo', 'light', 'lightcm', 'veux', 'xaga', 'pissarro',
 				 'spes', 'spesn', 'viva', 'vida', 'fleur', 'opal', 'sunstone', 'ruby', 'redwood', 'pearl', 'marble', 'tapas', 'topaz',
-				 'sweet_k6a', 'sea', 'gold', 'breeze', 'garnet', 'emerald', 'zircon', 'tanzanite', 'obsidian', 'beryl', 'malachite', 'amethyst', 'sapphire', 'sapphiren', 'emerald_r', 'lapis', 'kunzite', 'coral', 'flourite', 'peridot', 'rodin','onyx', 'alioth',
+				 'sweet_k6a', 'sea', 'gold', 'breeze', 'garnet', 'emerald', 'zircon', 'tanzanite', 'obsidian', 'beryl', 'malachite', 'amethyst', 'sapphire', 'sapphiren', 'emerald_r', 'kunzite', 'lapis', 'coral', 'flourite', 'peridot', 'rodin','onyx', 'alioth',
 				 'haydn', 'ares', 'munch', 'rubens', 'matisse', 'ingres', 'diting', 'rembrandt', 'mondrian', 'socrates', 'corot', 'duchamp',
 				 'vermeer', 'manet', 'rothko', 'zorn', 'miro', 'dali',
 				 'yunluo', 'xun', 'flare', 'spark', 'koto', 'taiko', 'dizi', 'ruan', 'turner', 'warm', 'serenity', 'evergreen', 'rock', 'moonstone']
@@ -413,6 +413,8 @@ flags = {
 	"malachite_id_global":"malachite",
 	"kunzite": "kunzite",
 	"kunzite_demo": "kunzite",
+	"lapis": "lapis",
+	"lapis_demo": "lapis",
 	"tanzanite_tw_global": "tanzanite",
 	"TANZANITETWGlobal": "tanzanite",
 	"TANZANITERUGlobal":"tanzanite",
@@ -2686,11 +2688,11 @@ def getChangelog(encrypted_data, device):
 		data = miui_decrypt(response.text.split("q=")[0])
 		if "LatestRom" in data:
 			print("最新版本更新日志：")
-			print_log(data["LatestRom"]["changelog"])
+			print_log(strip_log(data["LatestRom"]["changelog"]))
 		if "CurrentRom" in data:
 			print("当前版本更新日志：")
 			print(device)
-			print_log(data["CurrentRom"]["changelog"])
+			print_log(strip_log(data["CurrentRom"]["changelog"]))
 		else:
 			print(data)
 			return 0
@@ -2723,7 +2725,7 @@ def getChangelog2DB(encrypted_data, device,version):
 		else:
 			return False
 	response.close()
-	return json.dumps(remove_spaces(log), ensure_ascii=False)
+	return json.dumps(strip_log(remove_spaces(log)), ensure_ascii=False)
 
 def remove_spaces(d):
 	if isinstance(d, dict):
@@ -2759,7 +2761,7 @@ def compare(v1, v2):
 def print_log(log):
 	for module in log:
 		print(module)
-		for entry in log[module]['txt']:
+		for entry in log[module]:
 			print(entry)
 		
 
@@ -2867,3 +2869,12 @@ def entryChecker(data,device):
 		return 1
 	else:
 		return 0
+
+def strip_log(data):
+  result = {}
+  for key, value in data.items():
+    if isinstance(value, dict) and 'txt' in value:
+      result[key] = value['txt']
+    else:
+      result[key] = value
+  return result

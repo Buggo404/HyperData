@@ -155,6 +155,14 @@
 			"zone": "1",
 			"ep": "0",
 			"roms": {
+				"OS2.0.208.0.VNNCNXM": {
+					"os": "OS2.0.208.0.VNNCNXM",
+					"android": "15.0",
+					"release": "2025-08-22",
+					"recovery": "rothko-ota_full-OS2.0.208.0.VNNCNXM-user-15.0-677147aa23.zip",
+					"fastboot": "",
+					"ctelecom": ""
+				},
 				"OS2.0.206.0.VNNCNXM": {
 					"os": "OS2.0.206.0.VNNCNXM",
 					"android": "15.0",
@@ -838,6 +846,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.202.0.VNNMIDC": {
+					"os": "OS2.0.202.0.VNNMIDC",
+					"android": "15.0",
+					"release": "2025-08-22",
+					"recovery": "rothko_dc_global-ota_full-OS2.0.202.0.VNNMIDC-user-15.0-6200db1234.zip",
+					"fastboot": ""
+				},
 				"OS2.0.201.0.VNNMIDC": {
 					"os": "OS2.0.201.0.VNNMIDC",
 					"android": "15.0",

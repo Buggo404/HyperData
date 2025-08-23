@@ -643,6 +643,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.201.0.VMLMIXM": {
+					"os": "OS2.0.201.0.VMLMIXM",
+					"android": "15.0",
+					"release": "2025-08-21",
+					"recovery": "corot_global-ota_full-OS2.0.201.0.VMLMIXM-user-15.0-7ed0556ccc.zip",
+					"fastboot": ""
+				},
 				"OS2.0.200.0.VMLMIXM": {
 					"os": "OS2.0.200.0.VMLMIXM",
 					"android": "15.0",
@@ -756,7 +763,7 @@
 					"android": "15.0",
 					"release": "2025-08-16",
 					"recovery": "corot_eea_global-ota_full-OS2.0.204.0.VMLEUXM-user-15.0-475d576ae2.zip",
-					"fastboot": ""
+					"fastboot": "corot_eea_global_images_OS2.0.204.0.VMLEUXM_20250714.0000.00_15.0_eea_9d76969538.tgz"
 				},
 				"OS2.0.203.0.VMLEUXM": {
 					"os": "OS2.0.203.0.VMLEUXM",

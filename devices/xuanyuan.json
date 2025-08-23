@@ -136,8 +136,8 @@
 					"android": "15.0",
 					"release": "2025-08-16",
 					"recovery": "xuanyuan-ota_full-OS2.0.215.0.VOACNXM-user-15.0-01bf68da5c.zip",
-					"fastboot": "",
-					"ctelecom": ""
+					"fastboot": "xuanyuan_images_OS2.0.215.0.VOACNXM_20250813.0000.00_15.0_cn_9e1f66f606.tgz",
+					"ctelecom": "xuanyuan_images_OS2.0.215.0.VOACNXM_20250813.0000.00_15.0_cn_chinatelecom_d141ef077e.tgz"
 				},
 				"OS2.0.212.0.VOACNXM": {
 					"os": "OS2.0.212.0.VOACNXM",
@@ -447,6 +447,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.204.0.VOAMIXM": {
+					"os": "OS2.0.204.0.VOAMIXM",
+					"android": "15.0",
+					"release": "2025-08-22",
+					"recovery": "xuanyuan_global-ota_full-OS2.0.204.0.VOAMIXM-user-15.0-7d7106097e.zip",
+					"fastboot": ""
+				},
 				"OS2.0.202.0.VOAMIXM": {
 					"os": "OS2.0.202.0.VOAMIXM",
 					"android": "15.0",
@@ -798,6 +805,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.205.0.VOAIDXM": {
+					"os": "OS2.0.205.0.VOAIDXM",
+					"android": "15.0",
+					"release": "2025-08-22",
+					"recovery": "xuanyuan_id_global-ota_full-OS2.0.205.0.VOAIDXM-user-15.0-753f3ca01a.zip",
+					"fastboot": ""
+				},
 				"OS2.0.203.0.VOAIDXM": {
 					"os": "OS2.0.203.0.VOAIDXM",
 					"android": "15.0",

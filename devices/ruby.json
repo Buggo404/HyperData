@@ -49,6 +49,14 @@
 			"zone": "1",
 			"ep": "0",
 			"roms": {
+				"OS2.0.8.0.UMOCNXM": {
+					"os": "OS2.0.8.0.UMOCNXM",
+					"android": "14.0",
+					"release": "2025-08-21",
+					"recovery": "ruby-ota_full-OS2.0.8.0.UMOCNXM-user-14.0-88c35df3c7.zip",
+					"fastboot": "",
+					"ctelecom": ""
+				},
 				"OS2.0.7.0.UMOCNXM": {
 					"os": "OS2.0.7.0.UMOCNXM",
 					"android": "14.0",
@@ -544,7 +552,7 @@
 					"android": "14.0",
 					"release": "2025-08-15",
 					"recovery": "ruby_eea_global-ota_full-OS2.0.6.0.UMOEUXM-user-14.0-121ecaac27.zip",
-					"fastboot": ""
+					"fastboot": "ruby_eea_global_images_OS2.0.6.0.UMOEUXM_20250731.0000.00_14.0_eea_4fcacbb60b.tgz"
 				},
 				"OS2.0.5.0.UMOEUXM": {
 					"os": "OS2.0.5.0.UMOEUXM",

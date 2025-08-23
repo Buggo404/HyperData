@@ -406,6 +406,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.205.0.VOOMIXM": {
+					"os": "OS2.0.205.0.VOOMIXM",
+					"android": "15.0",
+					"release": "2025-08-22",
+					"recovery": "malachite_global-ota_full-OS2.0.205.0.VOOMIXM-user-15.0-cf563dba18.zip",
+					"fastboot": ""
+				},
 				"OS2.0.203.0.VOOMIXM": {
 					"os": "OS2.0.203.0.VOOMIXM",
 					"android": "15.0",
@@ -493,6 +500,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.201.0.VOOMIDC": {
+					"os": "OS2.0.201.0.VOOMIDC",
+					"android": "15.0",
+					"release": "2025-08-22",
+					"recovery": "malachite_dc_global-ota_full-OS2.0.201.0.VOOMIDC-user-15.0-300565dcb7.zip",
+					"fastboot": ""
+				},
 				"OS2.0.2.0.VOOMIDC": {
 					"os": "OS2.0.2.0.VOOMIDC",
 					"android": "15.0",
@@ -552,6 +566,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.208.0.VOOEUXM": {
+					"os": "OS2.0.208.0.VOOEUXM",
+					"android": "15.0",
+					"release": "2025-08-22",
+					"recovery": "malachite_eea_global-ota_full-OS2.0.208.0.VOOEUXM-user-15.0-3d3fbfd4fb.zip",
+					"fastboot": ""
+				},
 				"OS2.0.204.0.VOOEUXM": {
 					"os": "OS2.0.204.0.VOOEUXM",
 					"android": "15.0",
