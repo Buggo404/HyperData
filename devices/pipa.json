@@ -53,7 +53,7 @@
 					"android": "14.0",
 					"release": "2025-08-19",
 					"recovery": "pipa-ota_full-OS2.0.11.0.UMZCNXM-user-14.0-d7c9759768.zip",
-					"fastboot": ""
+					"fastboot": "pipa_images_OS2.0.11.0.UMZCNXM_20250809.0000.00_14.0_cn_f46a0a8b4b.tgz"
 				},
 				"OS2.0.10.0.UMZCNXM": {
 					"os": "OS2.0.10.0.UMZCNXM",
@@ -1157,7 +1157,7 @@
 					"android": "14.0",
 					"release": "2025-08-19",
 					"recovery": "pipa_tr_global-ota_full-OS2.0.6.0.UMZTRXM-user-14.0-1161d345be.zip",
-					"fastboot": ""
+					"fastboot": "pipa_tr_global_images_OS2.0.6.0.UMZTRXM_20250809.0000.00_14.0_tr_6c1b2c62ab.tgz"
 				},
 				"OS2.0.5.0.UMZTRXM": {
 					"os": "OS2.0.5.0.UMZTRXM",
