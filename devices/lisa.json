@@ -55,9 +55,9 @@
 					"android": "14.0",
 					"release": "2025-08-22",
 					"recovery": "lisa-ota_full-OS2.0.11.0.UKOCNXM-user-14.0-5ac9f2158e.zip",
-					"fastboot": "",
-					"ctelecom": "",
-					"cnmobile": ""
+					"fastboot": "lisa_images_OS2.0.11.0.UKOCNXM_20250814.0000.00_14.0_cn_c90453b02f.tgz",
+					"ctelecom": "lisa_images_OS2.0.11.0.UKOCNXM_20250814.0000.00_14.0_cn_chinatelecom_5c672ef008.tgz",
+					"cnmobile": "lisa_images_OS2.0.11.0.UKOCNXM_20250814.0000.00_14.0_cn_chinamobile_593bcad34b.tgz"
 				},
 				"OS2.0.10.0.UKOCNXM": {
 					"os": "OS2.0.10.0.UKOCNXM",
@@ -460,6 +460,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.5.0.UKOEUXM": {
+					"os": "OS2.0.5.0.UKOEUXM",
+					"android": "14.0",
+					"release": "2025-08-30",
+					"recovery": "lisa_eea_global-ota_full-OS2.0.5.0.UKOEUXM-user-14.0-f71e743c64.zip",
+					"fastboot": ""
+				},
 				"OS2.0.4.0.UKOEUXM": {
 					"os": "OS2.0.4.0.UKOEUXM",
 					"android": "14.0",
@@ -1215,6 +1222,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.5.0.UKOINXM": {
+					"os": "OS2.0.5.0.UKOINXM",
+					"android": "14.0",
+					"release": "2025-08-30",
+					"recovery": "lisa_in_global-ota_full-OS2.0.5.0.UKOINXM-user-14.0-68631e8d0e.zip",
+					"fastboot": ""
+				},
 				"OS2.0.4.0.UKOINXM": {
 					"os": "OS2.0.4.0.UKOINXM",
 					"android": "14.0",
