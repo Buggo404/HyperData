@@ -53,8 +53,8 @@
 					"android": "15.0",
 					"release": "2025-08-22",
 					"recovery": "onyx-ota_full-OS2.0.212.0.VOLCNXM-user-15.0-37b3b33a36.zip",
-					"fastboot": "",
-					"ctelecom": ""
+					"fastboot": "onyx_images_OS2.0.212.0.VOLCNXM_20250813.0000.00_15.0_cn_619e94a9ed.tgz",
+					"ctelecom": "onyx_images_OS2.0.212.0.VOLCNXM_20250813.0000.00_15.0_cn_chinatelecom_5c2979bd6b.tgz"
 				},
 				"OS2.0.209.0.VOLCNXM": {
 					"os": "OS2.0.209.0.VOLCNXM",
@@ -242,6 +242,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.201.0.VOLTWXM": {
+					"os": "OS2.0.201.0.VOLTWXM",
+					"android": "15.0",
+					"release": "2025-09-01",
+					"recovery": "onyx_tw_global-ota_full-OS2.0.201.0.VOLTWXM-user-15.0-c7bb50e745.zip",
+					"fastboot": ""
+				},
 				"OS2.0.102.0.VOLTWXM": {
 					"os": "OS2.0.102.0.VOLTWXM",
 					"android": "15.0",
@@ -391,6 +398,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.202.0.VOLRUXM": {
+					"os": "OS2.0.202.0.VOLRUXM",
+					"android": "15.0",
+					"release": "2025-09-01",
+					"recovery": "onyx_ru_global-ota_full-OS2.0.202.0.VOLRUXM-user-15.0-396955cb87.zip",
+					"fastboot": ""
+				},
 				"OS2.0.102.0.VOLRUXM": {
 					"os": "OS2.0.102.0.VOLRUXM",
 					"android": "15.0",
