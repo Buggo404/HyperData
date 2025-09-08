@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-09-06 19:26:00",
+    "time": "2025-09-07 22:04:09",
     "developing": "no",
     "roms": [
       {
@@ -97,7 +97,7 @@
           "zh": "Redmi 12 国际",
           "en": "Redmi 12"
         },
-        "rom": "OS2.0.204.0.VMXMIXM"
+        "rom": "OS2.0.204.0.VMXMIXM; OS2.0.202.0.VMXRUXM"
       },
       {
         "code": "earth",
@@ -201,7 +201,7 @@
           "zh": "REDMI Turbo 4 Pro / POCO F7",
           "en": "REDMI Turbo 4 Pro / POCO F7"
         },
-        "rom": "OS2.0.201.0.VOLTWXM; OS2.0.202.0.VOLRUXM"
+        "rom": "OS2.0.201.0.VOLTWXM; OS2.0.202.0.VOLRUXM; OS2.0.201.0.VOLINXM"
       },
       {
         "code": "diting",
@@ -217,7 +217,7 @@
           "zh": "Redmi K70 / POCO F6 Pro",
           "en": "Redmi K70 / POCO F6 Pro"
         },
-        "rom": "OS2.0.205.0.VNKMIXM"
+        "rom": "OS2.0.205.0.VNKTWXM; OS2.0.205.0.VNKMIXM; OS2.0.205.0.VNKRUXM"
       },
       {
         "code": "rothko",
