@@ -621,7 +621,7 @@
 					"android": "15.0",
 					"release": "2025-09-01",
 					"recovery": "vermeer_global-ota_full-OS2.0.205.0.VNKMIXM-user-15.0-d1d8cea7de.zip",
-					"fastboot": ""
+					"fastboot": "vermeer_global_images_OS2.0.205.0.VNKMIXM_20250826.0000.00_15.0_global_6b4b15a9df.tgz"
 				},
 				"OS2.0.201.0.VNKMIXM": {
 					"os": "OS2.0.201.0.VNKMIXM",
@@ -745,6 +745,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.208.0.VNKEUXM": {
+					"os": "OS2.0.208.0.VNKEUXM",
+					"android": "15.0",
+					"release": "2025-09-10",
+					"recovery": "vermeer_eea_global-ota_full-OS2.0.208.0.VNKEUXM-user-15.0-d5e93a3ad2.zip",
+					"fastboot": ""
+				},
 				"OS2.0.204.0.VNKEUXM": {
 					"os": "OS2.0.204.0.VNKEUXM",
 					"android": "15.0",

@@ -51,7 +51,7 @@
 					"android": "15.0",
 					"release": "2025-09-02",
 					"recovery": "emerald_r_global-ota_full-OS2.0.204.0.VFOMIXM-user-15.0-7e64142dbc.zip",
-					"fastboot": ""
+					"fastboot": "emerald_r_global_images_OS2.0.204.0.VFOMIXM_20250825.0000.00_15.0_global_845f7abccd.tgz"
 				},
 				"OS2.0.203.0.VFOMIXM": {
 					"os": "OS2.0.203.0.VFOMIXM",
@@ -138,7 +138,7 @@
 					"android": "15.0",
 					"release": "2025-09-05",
 					"recovery": "emerald_r_eea_global-ota_full-OS2.0.204.0.VFOEUXM-user-15.0-9190529951.zip",
-					"fastboot": ""
+					"fastboot": "emerald_r_eea_global_images_OS2.0.204.0.VFOEUXM_20250829.0000.00_15.0_eea_a339d6638d.tgz"
 				},
 				"OS2.0.203.0.VFOEUXM": {
 					"os": "OS2.0.203.0.VFOEUXM",
