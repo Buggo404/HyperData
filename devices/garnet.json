@@ -50,6 +50,14 @@
 			"zone": "1",
 			"ep": "0",
 			"roms": {
+				"OS2.0.207.0.VNRCNXM": {
+					"os": "OS2.0.207.0.VNRCNXM",
+					"android": "15.0",
+					"release": "2025-09-17",
+					"recovery": "garnet-ota_full-OS2.0.207.0.VNRCNXM-user-15.0-684b8cec51.zip",
+					"fastboot": "",
+					"ctelecom": ""
+				},
 				"OS2.0.206.0.VNRCNXM": {
 					"os": "OS2.0.206.0.VNRCNXM",
 					"android": "15.0",
@@ -635,6 +643,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.203.0.VNRMIDC": {
+					"os": "OS2.0.203.0.VNRMIDC",
+					"android": "15.0",
+					"release": "2025-09-19",
+					"recovery": "garnet_dc_global-ota_full-OS2.0.203.0.VNRMIDC-user-15.0-8f6045ee25.zip",
+					"fastboot": ""
+				},
 				"OS2.0.201.0.VNRMIDC": {
 					"os": "OS2.0.201.0.VNRMIDC",
 					"android": "15.0",
@@ -715,6 +730,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.202.0.VNREUXM": {
+					"os": "OS2.0.202.0.VNREUXM",
+					"android": "15.0",
+					"release": "2025-09-19",
+					"recovery": "garnet_eea_global-ota_full-OS2.0.202.0.VNREUXM-user-15.0-e746be95d4.zip",
+					"fastboot": ""
+				},
 				"OS2.0.201.0.VNREUXM": {
 					"os": "OS2.0.201.0.VNREUXM",
 					"android": "15.0",

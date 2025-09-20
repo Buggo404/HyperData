@@ -48,6 +48,14 @@
 			"zone": "1",
 			"ep": "0",
 			"roms": {
+				"OS2.0.214.0.VOLCNXM": {
+					"os": "OS2.0.214.0.VOLCNXM",
+					"android": "15.0",
+					"release": "2025-09-19",
+					"recovery": "onyx-ota_full-OS2.0.214.0.VOLCNXM-user-15.0-ad9d1d86b7.zip",
+					"fastboot": "",
+					"ctelecom": ""
+				},
 				"OS2.0.212.0.VOLCNXM": {
 					"os": "OS2.0.212.0.VOLCNXM",
 					"android": "15.0",
@@ -351,7 +359,7 @@
 					"android": "15.0",
 					"release": "2025-09-15",
 					"recovery": "onyx_eea_global-ota_full-OS2.0.206.0.VOLEUXM-user-15.0-08b801c7f8.zip",
-					"fastboot": ""
+					"fastboot": "onyx_eea_global_images_OS2.0.206.0.VOLEUXM_20250826.0000.00_15.0_eea_c526be2f9f.tgz"
 				},
 				"OS2.0.204.0.VOLEUXM": {
 					"os": "OS2.0.204.0.VOLEUXM",
