@@ -1,10 +1,10 @@
 {
   "device": "pandora",
   "name": {
-    "zh": "小米 17 Pro Max",
-    "en": "Xiaomi 17 Pro Max"
+    "zh": "小米 17 Pro",
+    "en": "Xiaomi 17 Pro"
   },
-  "code": "",
+  "code": "BL",
   "suppports": [
     "OS3.0"
   ],
@@ -23,8 +23,8 @@
       "branchCode": "pandora",
       "brand": "Xiaomi",
       "device": {
-        "zh": "小米 17 Pro Max",
-        "en": "Xiaomi 17 Pro Max"
+        "zh": "小米 17 Pro",
+        "en": "Xiaomi 17 Pro"
       },
       "idtag": "CnOO",
       "tag": "CNXM",
@@ -48,13 +48,80 @@
       "zone": "1",
       "ep": "0",
       "roms": {
-        "": {
-          "os": "",
+        "OS3.0.9.0.WBLCNXM": {
+          "os": "OS3.0.9.0.WBLCNXM",
           "android": "16.0",
-          "release": "",
-          "recovery": "",
+          "release": "2025-09-26",
+          "recovery": "pandora-ota_full-OS3.0.9.0.WBLCNXM-user-16.0-8a3d62e3c8.zip",
+          "fastboot": "pandora_images_OS3.0.9.0.WBLCNXM_20250923.0000.00_16.0_cn_d40335a38f.tgz",
+          "ctelecom": "pandora_images_OS3.0.9.0.WBLCNXM_20250923.0000.00_16.0_cn_chinatelecom_c4912aa7a1.tgz"
+        },
+        "OS3.0.7.0.WBLCNXM": {
+          "os": "OS3.0.7.0.WBLCNXM",
+          "android": "16.0",
+          "release": "2025-09-26",
+          "recovery": "pandora-ota_full-OS3.0.7.0.WBLCNXM-user-16.0-d6daec1326.zip",
+          "fastboot": "pandora_images_OS3.0.7.0.WBLCNXM_20250918.0000.00_16.0_cn_5a9ed0bd75.tgz",
+          "ctelecom": "pandora_images_OS3.0.7.0.WBLCNXM_20250918.0000.00_16.0_cn_chinatelecom_2f8aeb114e.tgz"
+        },
+        "OS3.0.5.0.WBLCNXM": {
+          "os": "OS3.0.5.0.WBLCNXM",
+          "android": "16.0",
+          "release": "2025-09-26",
+          "recovery": "pandora-ota_full-OS3.0.5.0.WBLCNXM-user-16.0-a2daadfbf5.zip",
           "fastboot": "",
           "ctelecom": ""
+        },
+        "OS3.0.3.0.WBLCNXM": {
+          "os": "OS3.0.3.0.WBLCNXM",
+          "android": "16.0",
+          "release": "2025-09-26",
+          "recovery": "pandora-ota_full-OS3.0.3.0.WBLCNXM-user-16.0-6fb27afb9b.zip",
+          "fastboot": "",
+          "ctelecom": ""
+        }
+      }
+    },
+    {
+      "name": {
+        "zh": "小米澎湃 OS 演示机系统",
+        "en": "Xiaomi HyperOS China MiStore Demo"
+      },
+      "branchCode": "pandora_demo",
+      "brand": "Xiaomi, REDMI, POCO",
+      "device": {
+        "zh": "",
+        "en": ""
+      },
+      "idtag": "CnOD",
+      "tag": "CNDM",
+      "branchtag": "F",
+      "table": [
+        "os",
+        "android",
+        "release",
+        "recovery",
+        "fastboot",
+        "ctelecom"
+      ],
+      "show": "0",
+      "region": "cn",
+      "carrier": [
+        "",
+        "chinatelecom",
+        "chinamobile",
+        "chinaunicom"
+      ],
+      "zone": "1",
+      "ep": "0",
+      "roms": {
+        "OS3.0.3.0.WBLCNDM": {
+          "os": "OS3.0.3.0.WBLCNDM",
+          "android": "16.0",
+          "release": "2025-09-26",
+          "recovery": "pandora_demo-ota_full-OS3.0.3.0.WBLCNDM-user-16.0-a378cb90d4.zip",
+          "fastboot": "pandora_demo_images_OS3.0.3.0.WBLCNDM_20250925.0000.00_16.0_cn_463d290c07.tgz",
+          "ctelecom": "pandora_demo_images_OS3.0.3.0.WBLCNDM_20250925.0000.00_16.0_cn_chinatelecom_18d31ba97e.tgz"
         }
       }
     }
