@@ -1,8 +1,48 @@
 {
   "recent": {
-    "time": "2025-09-29 23:53:55",
+    "time": "2025-09-30 20:40:13",
     "developing": "no",
     "roms": [
+      {
+        "code": "vili",
+        "name": {
+          "zh": "小米 11T Pro",
+          "en": "Xiaomi 11T Pro"
+        },
+        "rom": "OS1.0.11.0.UKDMXAT"
+      },
+      {
+        "code": "houji",
+        "name": {
+          "zh": "小米 14",
+          "en": "Xiaomi 14"
+        },
+        "rom": "OS3.0.0.4.WNCCNXM"
+      },
+      {
+        "code": "shennong",
+        "name": {
+          "zh": "小米 14 Pro / Ti / 钛金属卫星通讯版",
+          "en": "Xiaomi 14 Pro / Ti / Satellite"
+        },
+        "rom": "OS3.0.0.8.WNBCNXM; OS2.0.221.0.VNBCNXM"
+      },
+      {
+        "code": "aurora",
+        "name": {
+          "zh": "小米 14 Ultra / Ultra Ti",
+          "en": "Xiaomi 14 Ultra"
+        },
+        "rom": "OS3.0.0.3.WNACNXM"
+      },
+      {
+        "code": "degas",
+        "name": {
+          "zh": "小米 14T",
+          "en": "Xiaomi 14T"
+        },
+        "rom": "OS2.0.204.0.VNETWXM; OS2.0.204.0.VNEMIXM; OS2.0.204.0.VNERUXM; OS2.0.203.0.VNEIDXM; OS2.0.204.0.VNETRXM"
+      },
       {
         "code": "yupei",
         "name": {
@@ -18,6 +58,22 @@
           "en": "Redmi 12"
         },
         "rom": "OS2.0.202.0.VMXTRXM"
+      },
+      {
+        "code": "earth",
+        "name": {
+          "zh": "Redmi 12C / POCO C55",
+          "en": "Redmi 12C / POCO C55"
+        },
+        "rom": "OS1.0.12.0.UCVEUOR"
+      },
+      {
+        "code": "gale",
+        "name": {
+          "zh": "Redmi 13C 国际 / POCO C65",
+          "en": "Redmi 13C / POCO C65"
+        },
+        "rom": "OS2.0.205.0.VGPEUXM"
       },
       {
         "code": "moon",
@@ -41,7 +97,7 @@
           "zh": "REDMI 15C 5G / REDMI 15R 5G",
           "en": "REDMI 15C 5G / REDMI 15R 5G"
         },
-        "rom": "OS2.0.201.0.VPOTRXM"
+        "rom": "OS2.0.201.0.VPOTRXM; OS2.0.201.0.VPOLMCR"
       },
       {
         "code": "beryl",
@@ -68,6 +124,14 @@
         "rom": "OS3.0.0.5.WNLCNXM"
       },
       {
+        "code": "vermeer",
+        "name": {
+          "zh": "Redmi K70 / POCO F6 Pro",
+          "en": "Redmi K70 / POCO F6 Pro"
+        },
+        "rom": "OS3.0.0.5.WNKCNXM"
+      },
+      {
         "code": "miro",
         "name": {
           "zh": "REDMI K80 Pro / POCO F7 Ultra",
@@ -82,6 +146,14 @@
           "en": "REDMI Pad 2 4G"
         },
         "rom": "OS2.0.205.0.VOWMIDC"
+      },
+      {
+        "code": "serenity",
+        "name": {
+          "zh": "REDMI A5 / POCO C71",
+          "en": "REDMI A5 / POCO C71"
+        },
+        "rom": "A15.0.4.0.VGWLMCR"
       }
     ]
   }
