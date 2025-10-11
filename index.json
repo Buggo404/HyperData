@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-10-09 20:37:08",
+    "time": "2025-10-10 17:52:40",
     "developing": "no",
     "roms": [
       {
@@ -10,6 +10,38 @@
           "en": "Xiaomi 14 Pro / Ti / Satellite"
         },
         "rom": "OS2.0.222.0.VNBCNXM"
+      },
+      {
+        "code": "dada",
+        "name": {
+          "zh": "小米 15",
+          "en": "Xiaomi 15"
+        },
+        "rom": "OS3.0.1.1.WOCCNXM"
+      },
+      {
+        "code": "haotian",
+        "name": {
+          "zh": "小米 15 Pro",
+          "en": "Xiaomi 15 Pro"
+        },
+        "rom": "OS3.0.1.1.WOBCNXM"
+      },
+      {
+        "code": "xuanyuan",
+        "name": {
+          "zh": "小米 15 Ultra",
+          "en": "Xiaomi 15 Ultra"
+        },
+        "rom": "OS3.0.1.1.WOACNXM"
+      },
+      {
+        "code": "dijun",
+        "name": {
+          "zh": "小米 15S Pro",
+          "en": "Xiaomi 15S Pro"
+        },
+        "rom": "OS3.0.3.1.WODCNXM"
       },
       {
         "code": "goya",
@@ -44,6 +76,30 @@
         "rom": "OS3.0.17.0.WPBCNXM"
       },
       {
+        "code": "piano",
+        "name": {
+          "zh": "小米 Pad 8 Pro",
+          "en": "Xiaomi Pad 8 Pro"
+        },
+        "rom": "OS3.0.5.0.WPYCNXM"
+      },
+      {
+        "code": "yupei",
+        "name": {
+          "zh": "小米 Pad 8",
+          "en": "Xiaomi Pad 8"
+        },
+        "rom": "OS3.0.6.0.WPZCNXM"
+      },
+      {
+        "code": "bixi",
+        "name": {
+          "zh": "小米 MIX Flip 2",
+          "en": "Xiaomi MIX Flip 2"
+        },
+        "rom": "OS2.0.213.0.VOHCNXM"
+      },
+      {
         "code": "moon",
         "name": {
           "zh": "Redmi 13 / POCO M6 4G",
@@ -76,6 +132,14 @@
         "rom": "OS2.0.204.0.VOUGTTG"
       },
       {
+        "code": "light",
+        "name": {
+          "zh": "Redmi 10 5G/Redmi 11 Prime 5G/Redmi Note 11E/POCO M4 5G",
+          "en": "Redmi 10 5G/Redmi 11 Prime 5G/Redmi Note 11E/POCO M4 5G"
+        },
+        "rom": "OS1.0.13.0.ULSEUTF"
+      },
+      {
         "code": "veux",
         "name": {
           "zh": "Redmi Note 11 / 11E Pro 5G / POCO X4 Pro 5G",
@@ -84,12 +148,36 @@
         "rom": "OS1.0.15.0.TKCEUVF"
       },
       {
+        "code": "ruby",
+        "name": {
+          "zh": "Redmi Note 12 Pro / Pro+ / 探索版",
+          "en": "Redmi Note 12 Pro / Pro+ / Discovery 5G"
+        },
+        "rom": "OS2.0.5.0.UMORUXM; OS2.0.6.0.UMOIDXM; OS2.0.4.0.UMOTRXM"
+      },
+      {
         "code": "emerald_r",
         "name": {
           "zh": "Redmi Note 14s",
           "en": "Redmi Note 14s"
         },
         "rom": "OS2.0.204.0.VFORUXM; OS2.0.205.0.VFOTRXM"
+      },
+      {
+        "code": "diting",
+        "name": {
+          "zh": "Redmi K50 至尊版 / 小米 12T Pro",
+          "en": "Redmi K50 Ultra / Xiaomi 12T Pro"
+        },
+        "rom": "OS2.0.201.0.VLFCLEN"
+      },
+      {
+        "code": "miro",
+        "name": {
+          "zh": "REDMI K80 Pro / POCO F7 Ultra",
+          "en": "REDMI K80 Pro / POCO F7 Ultra"
+        },
+        "rom": "OS3.0.1.1.WOMCNXM"
       }
     ]
   }
