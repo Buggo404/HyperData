@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-10-10 17:52:40",
+    "time": "2025-10-11 21:16:08",
     "developing": "no",
     "roms": [
       {
@@ -65,7 +65,15 @@
           "zh": "小米 17",
           "en": "Xiaomi 17"
         },
-        "rom": "OS3.0.17.0.WPCCNXM"
+        "rom": "OS3.0.20.0.WPCCNXM; OS3.0.17.0.WPCCNXM"
+      },
+      {
+        "code": "pandora",
+        "name": {
+          "zh": "小米 17 Pro",
+          "en": "Xiaomi 17 Pro"
+        },
+        "rom": "OS3.0.20.0.WBLCNXM"
       },
       {
         "code": "popsicle",
@@ -73,7 +81,7 @@
           "zh": "小米 17 Pro Max",
           "en": "Xiaomi 17 Pro Max"
         },
-        "rom": "OS3.0.17.0.WPBCNXM"
+        "rom": "OS3.0.20.0.WPBCNXM; OS3.0.17.0.WPBCNXM"
       },
       {
         "code": "piano",
@@ -156,6 +164,14 @@
         "rom": "OS2.0.5.0.UMORUXM; OS2.0.6.0.UMOIDXM; OS2.0.4.0.UMOTRXM"
       },
       {
+        "code": "emerald",
+        "name": {
+          "zh": "Redmi Note 13 Pro 4G / POCO M6 Pro",
+          "en": "Redmi Note 13 Pro 4G / POCO M6 Pro"
+        },
+        "rom": "OS2.0.203.0.VNFMXAT"
+      },
+      {
         "code": "emerald_r",
         "name": {
           "zh": "Redmi Note 14s",
@@ -178,6 +194,14 @@
           "en": "REDMI K80 Pro / POCO F7 Ultra"
         },
         "rom": "OS3.0.1.1.WOMCNXM"
+      },
+      {
+        "code": "dali",
+        "name": {
+          "zh": "REDMI K80 至尊版",
+          "en": "REDMI K80 Ultra"
+        },
+        "rom": "OS3.0.1.1.WONCNXM"
       }
     ]
   }
