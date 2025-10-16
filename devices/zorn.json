@@ -49,6 +49,13 @@
 			"zone": "1",
 			"ep": "0",
 			"roms": {
+				"OS3.0.0.14.WOKCNXM": {
+					"os": "OS3.0.0.14.WOKCNXM",
+					"android": "16.0",
+					"release": "2025-10-14",
+					"recovery": "zorn-ota_full-OS3.0.0.14.WOKCNXM-user-16.0-5771ce5761.zip",
+					"fastboot": ""
+				},
 				"OS3.0.0.12.WOKCNXM": {
 					"os": "OS3.0.0.12.WOKCNXM",
 					"android": "16.0",
@@ -127,6 +134,14 @@
 					"recovery": "zorn-ota_full-OS2.0.215.0.VOKCNXM-user-15.0-2d85297718.zip",
 					"fastboot": "zorn_images_OS2.0.215.0.VOKCNXM_20250822.0000.00_15.0_cn_748f8ad4fe.tgz",
 					"ctelecom": "zorn_images_OS2.0.215.0.VOKCNXM_20250822.0000.00_15.0_cn_chinatelecom_9354d09c58.tgz"
+				},
+				"OS2.0.214.0.VOKCNXM": {
+					"os": "OS2.0.214.0.VOKCNXM",
+					"android": "15.0",
+					"release": "2025-08-25",
+					"recovery": "zorn-ota_full-OS2.0.214.0.VOKCNXM-user-15.0-53086fd26a.zip",
+					"fastboot": "",
+					"ctelecom": ""
 				},
 				"OS2.0.213.0.VOKCNXM": {
 					"os": "OS2.0.213.0.VOKCNXM",

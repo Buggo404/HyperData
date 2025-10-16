@@ -196,6 +196,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.206.0.VNFMIDC": {
+					"os": "OS2.0.206.0.VNFMIDC",
+					"android": "15.0",
+					"release": "2025-10-15",
+					"recovery": "emerald_dc_global-ota_full-OS2.0.206.0.VNFMIDC-user-15.0-490abed5e8.zip",
+					"fastboot": ""
+				},
 				"OS2.0.205.0.VNFMIDC": {
 					"os": "OS2.0.205.0.VNFMIDC",
 					"android": "15.0",
@@ -874,7 +881,7 @@
 					"android": "15.0",
 					"release": "2025-10-11",
 					"recovery": "emerald_mx_at_global-ota_full-OS2.0.203.0.VNFMXAT-user-15.0-3ff4cdee19.zip",
-					"fastboot": ""
+					"fastboot": "emerald_mx_at_global_images_OS2.0.203.0.VNFMXAT_20250918.0000.00_15.0_mx_at_343977ce9e.tgz"
 				},
 				"OS2.0.202.0.VNFMXAT": {
 					"os": "OS2.0.202.0.VNFMXAT",
@@ -942,6 +949,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.202.0.VNFLMCR": {
+					"os": "OS2.0.202.0.VNFLMCR",
+					"android": "15.0",
+					"release": "2025-10-13",
+					"recovery": "emerald_lm_cr_global-ota_full-OS2.0.202.0.VNFLMCR-user-15.0-26504e8275.zip",
+					"fastboot": ""
+				},
 				"OS2.0.201.0.VNFLMCR": {
 					"os": "OS2.0.201.0.VNFLMCR",
 					"android": "15.0",
