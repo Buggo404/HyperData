@@ -4,7 +4,7 @@
     "zh": "REDMI K90 Pro Max",
     "en": "REDMI K90 Pro Max"
   },
-  "code": "",
+  "code": "PM",
   "suppports": [
     "OS3.0"
   ],
@@ -48,13 +48,80 @@
       "zone": "1",
       "ep": "0",
       "roms": {
-        "": {
-          "os": "",
+        "OS3.0.11.0.WPMCNXM": {
+          "os": "OS3.0.11.0.WPMCNXM",
           "android": "16.0",
-          "release": "",
-          "recovery": "",
+          "release": "2025-10-23",
+          "recovery": "myron-ota_full-OS3.0.11.0.WPMCNXM-user-16.0-b08afa05e5.zip",
+          "fastboot": "myron_images_OS3.0.11.0.WPMCNXM_20251020.0000.00_16.0_cn_f7d3aefaf8.tgz",
+          "ctelecom": "myron_images_OS3.0.11.0.WPMCNXM_20251020.0000.00_16.0_cn_chinatelecom_4fdc492982.tgz"
+        },
+        "OS3.0.10.0.WPMCNXM": {
+          "os": "OS3.0.10.0.WPMCNXM",
+          "android": "16.0",
+          "release": "2025-10-23",
+          "recovery": "myron-ota_full-OS3.0.10.0.WPMCNXM-user-16.0-e293ae88c6.zip",
           "fastboot": "",
           "ctelecom": ""
+        },
+        "OS3.0.7.0.WPMCNXM": {
+          "os": "OS3.0.7.0.WPMCNXM",
+          "android": "16.0",
+          "release": "2025-10-23",
+          "recovery": "myron-ota_full-OS3.0.7.0.WPMCNXM-user-16.0-a09675910b.zip",
+          "fastboot": "",
+          "ctelecom": ""
+        },
+        "OS3.0.4.0.WPMCNXM": {
+          "os": "OS3.0.4.0.WPMCNXM",
+          "android": "16.0",
+          "release": "2025-10-23",
+          "recovery": "myron-ota_full-OS3.0.4.0.WPMCNXM-user-16.0-52ed874222.zip",
+          "fastboot": "",
+          "ctelecom": ""
+        }
+      }
+    },
+    {
+      "name": {
+        "zh": "小米澎湃 OS 演示机系统",
+        "en": "Xiaomi HyperOS China MiStore Demo"
+      },
+      "branchCode": "myron_demo",
+      "brand": "REDMI",
+      "device": {
+        "zh": "REDMI K90 Pro Max",
+        "en": "REDMI K90 Pro Max"
+      },
+      "idtag": "CnOD",
+      "tag": "CNDM",
+      "branchtag": "F",
+      "table": [
+        "os",
+        "android",
+        "release",
+        "recovery",
+        "fastboot",
+        "ctelecom"
+      ],
+      "show": "0",
+      "region": "cn",
+      "carrier": [
+        "",
+        "chinatelecom",
+        "chinamobile",
+        "chinaunicom"
+      ],
+      "zone": "1",
+      "ep": "0",
+      "roms": {
+        "OS3.0.2.0.WPMCNDM": {
+          "os": "OS3.0.2.0.WPMCNDM",
+          "android": "16.0",
+          "release": "2025-10-23",
+          "recovery": "myron_demo-ota_full-OS3.0.2.0.WPMCNDM-user-16.0-000778853a.zip",
+          "fastboot": "myron_demo_images_OS3.0.2.0.WPMCNDM_20251017.0000.00_16.0_cn_1023790135.tgz",
+          "ctelecom": "myron_demo_images_OS3.0.2.0.WPMCNDM_20251017.0000.00_16.0_cn_chinatelecom_ee91514580.tgz"
         }
       }
     }
