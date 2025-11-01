@@ -96,6 +96,13 @@
       "zone": "2",
       "ep": "0",
       "roms": {
+        "OS2.0.207.0.VOEMIXM": {
+          "os": "OS2.0.207.0.VOEMIXM",
+          "android": "15.0",
+          "release": "2025-10-31",
+          "recovery": "goya_global-ota_full-OS2.0.207.0.VOEMIXM-user-15.0-28ac5e040b.zip",
+          "fastboot": ""
+        },
         "OS2.0.206.0.VOEMIXM": {
           "os": "OS2.0.206.0.VOEMIXM",
           "android": "15.0",
@@ -198,7 +205,7 @@
           "android": "15.0",
           "release": "2025-10-27",
           "recovery": "goya_eea_global-ota_full-OS2.0.209.0.VOEEUXM-user-15.0-83555c9bb0.zip",
-          "fastboot": ""
+          "fastboot": "goya_eea_global_images_OS2.0.209.0.VOEEUXM_20251014.0000.00_15.0_eea_dec29a54ad.tgz"
         },
         "OS2.0.208.0.VOEEUXM": {
           "os": "OS2.0.208.0.VOEEUXM",
@@ -259,6 +266,13 @@
       "zone": "2",
       "ep": "0",
       "roms": {
+        "OS2.0.204.0.VOERUXM": {
+          "os": "OS2.0.204.0.VOERUXM",
+          "android": "15.0",
+          "release": "2025-10-31",
+          "recovery": "goya_ru_global-ota_full-OS2.0.204.0.VOERUXM-user-15.0-b3e4bd7333.zip",
+          "fastboot": ""
+        },
         "OS2.0.203.0.VOERUXM": {
           "os": "OS2.0.203.0.VOERUXM",
           "android": "15.0",
@@ -349,6 +363,13 @@
       "zone": "2",
       "ep": "0",
       "roms": {
+        "OS2.0.206.0.VOETRXM": {
+          "os": "OS2.0.206.0.VOETRXM",
+          "android": "15.0",
+          "release": "2025-10-31",
+          "recovery": "goya_tr_global-ota_full-OS2.0.206.0.VOETRXM-user-15.0-8aa13520ea.zip",
+          "fastboot": ""
+        },
         "OS2.0.205.0.VOETRXM": {
           "os": "OS2.0.205.0.VOETRXM",
           "android": "15.0",
