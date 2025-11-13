@@ -1,8 +1,16 @@
 {
   "recent": {
-    "time": "2025-11-11 20:09:20",
+    "time": "2025-11-12 22:53:20",
     "developing": "no",
     "roms": [
+      {
+        "code": "umi",
+        "name": {
+          "zh": "小米 10",
+          "en": "Mi 10"
+        },
+        "rom": "OS1.0.7.0.TJBCNXM"
+      },
       {
         "code": "vili",
         "name": {
@@ -42,6 +50,14 @@
           "en": "Xiaomi 14T"
         },
         "rom": "OS2.0.203.0.VNELMCR"
+      },
+      {
+        "code": "klimt",
+        "name": {
+          "zh": "小米 15T Pro",
+          "en": "Xiaomi 15T Pro"
+        },
+        "rom": "OS2.0.203.0.VOSMXAT"
       },
       {
         "code": "uke",
@@ -90,6 +106,14 @@
           "en": "REDMI 15C / POCO C85"
         },
         "rom": "OS2.0.205.0.VBNIDXM; OS2.0.204.0.VBNTRXM; OS2.0.205.0.VBNMXAT"
+      },
+      {
+        "code": "tornado",
+        "name": {
+          "zh": "REDMI 15C 5G / REDMI 15R 5G",
+          "en": "REDMI 15C 5G / REDMI 15R 5G"
+        },
+        "rom": "OS2.0.202.0.VPOINXM"
       },
       {
         "code": "ruby",
@@ -170,6 +194,14 @@
           "en": "Redmi Note 13 NFC"
         },
         "rom": "OS2.0.206.0.VNHMIXM"
+      },
+      {
+        "code": "rodin",
+        "name": {
+          "zh": "REDMI Turbo 4 / POCO X7 Pro",
+          "en": "REDMI Turbo 4 / POCO X7 Pro"
+        },
+        "rom": "OS2.0.206.0.VOJMIXM"
       },
       {
         "code": "duchamp",
