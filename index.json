@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-11-13 23:32:43",
+    "time": "2025-11-14 21:00:17",
     "developing": "no",
     "roms": [
       {
@@ -17,7 +17,7 @@
           "zh": "小米 11 青春活力版 / 小米 11 Lite 5G NE",
           "en": "Mi 11 LE / Xiaomi 11 Lite 5G NE"
         },
-        "rom": "OS2.0.14.0.UKOCNXM"
+        "rom": "OS2.0.14.0.UKOCNXM; OS1.0.16.0.UKOMXAT"
       },
       {
         "code": "vili",
@@ -33,7 +33,7 @@
           "zh": "小米 12 Pro",
           "en": "Xiaomi 12 Pro"
         },
-        "rom": "OS2.0.210.0.VLBCNXM"
+        "rom": "OS2.0.210.0.VLBCNXM; OS2.0.205.0.VLBTWXM; OS2.0.206.0.VLBMIXM; OS2.0.208.0.VLBEUXM; OS2.0.205.0.VLBRUXM; OS2.0.208.0.VLBINXM; OS2.0.208.0.VLBIDXM; OS2.0.205.0.VLBTRXM"
       },
       {
         "code": "taoyao",
@@ -89,7 +89,7 @@
           "zh": "小米 14 Ultra / Ultra Ti",
           "en": "Xiaomi 14 Ultra"
         },
-        "rom": "OS3.0.4.0.WNACNXM"
+        "rom": "OS3.0.4.0.WNACNXM; OS2.0.205.0.VNATRXM"
       },
       {
         "code": "degas",
@@ -140,6 +140,14 @@
         "rom": "OS3.0.3.0.WNICNXM; OS2.0.213.0.VNIEUXM"
       },
       {
+        "code": "ziyi",
+        "name": {
+          "zh": "小米 Civi 2",
+          "en": "Xiaomi Civi 2"
+        },
+        "rom": "OS2.0.206.0.VLLCNXM"
+      },
+      {
         "code": "chenfeng",
         "name": {
           "zh": "小米 Civi 4 Pro / 小米 14 Civi",
@@ -153,7 +161,7 @@
           "zh": "Redmi 13C 国际 / POCO C65",
           "en": "Redmi 13C / POCO C65"
         },
-        "rom": "OS2.0.203.0.VGPINXM"
+        "rom": "OS2.0.204.0.VGPMIXM; OS2.0.203.0.VGPRUXM; OS2.0.203.0.VGPINXM; OS2.0.203.0.VGPIDXM"
       },
       {
         "code": "moon",
@@ -233,7 +241,7 @@
           "zh": "Redmi Note 13 Pro 5G / POCO X6 5G",
           "en": "Redmi Note 13 Pro 5G / POCO X6 5G"
         },
-        "rom": "OS2.0.209.0.VNRCNXM; OS2.0.204.0.VNRTWXM; OS2.0.205.0.VNRMIXM; OS2.0.205.0.VNRMIDC; OS2.0.204.0.VNRRUXM; OS2.0.205.0.VNRINXM; OS2.0.205.0.VNRIDXM; OS2.0.204.0.VNRTRXM"
+        "rom": "OS2.0.209.0.VNRCNXM; OS2.0.204.0.VNRTWXM; OS2.0.205.0.VNRMIXM; OS2.0.205.0.VNRMIDC; OS2.0.204.0.VNREUXM; OS2.0.204.0.VNRRUXM; OS2.0.205.0.VNRINXM; OS2.0.205.0.VNRIDXM; OS2.0.204.0.VNRTRXM"
       },
       {
         "code": "emerald",
@@ -290,6 +298,14 @@
           "en": "REDMI Turbo 4 / POCO X7 Pro"
         },
         "rom": "OS2.0.206.0.VOJMIXM"
+      },
+      {
+        "code": "onyx",
+        "name": {
+          "zh": "REDMI Turbo 4 Pro / POCO F7",
+          "en": "REDMI Turbo 4 Pro / POCO F7"
+        },
+        "rom": "OS3.0.5.0.WOLCNXM"
       },
       {
         "code": "rembrandt",
@@ -377,7 +393,7 @@
           "zh": "REDMI 平板 2",
           "en": "REDMI Pad 2"
         },
-        "rom": "OS2.0.207.0.VOVTWXM; OS2.0.206.0.VOVINXM; OS2.0.208.0.VOVIDXM"
+        "rom": "OS3.0.2.0.WOVCNXM; OS2.0.207.0.VOVTWXM; OS2.0.206.0.VOVINXM; OS2.0.208.0.VOVIDXM"
       },
       {
         "code": "serenity",
@@ -385,7 +401,7 @@
           "zh": "REDMI A5 / POCO C71",
           "en": "REDMI A5 / POCO C71"
         },
-        "rom": "A15.0.7.0.VGWIDXM"
+        "rom": "A15.0.14.0.VGWMIXM; A15.0.7.0.VGWIDXM"
       },
       {
         "code": "moonstone",
