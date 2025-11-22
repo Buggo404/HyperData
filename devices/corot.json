@@ -567,6 +567,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.204.0.VMLTWXM": {
+					"os": "OS2.0.204.0.VMLTWXM",
+					"android": "15.0",
+					"release": "2025-11-21",
+					"recovery": "corot_tw_global-ota_full-OS2.0.204.0.VMLTWXM-user-15.0-7208f76510.zip",
+					"fastboot": ""
+				},
 				"OS2.0.203.0.VMLTWXM": {
 					"os": "OS2.0.203.0.VMLTWXM",
 					"android": "15.0",
@@ -701,7 +708,7 @@
 					"android": "15.0",
 					"release": "2025-11-13",
 					"recovery": "corot_global-ota_full-OS2.0.204.0.VMLMIXM-user-15.0-8a0c2f8385.zip",
-					"fastboot": ""
+					"fastboot": "corot_global_images_OS2.0.204.0.VMLMIXM_20251028.0000.00_15.0_global_6ed0419171.tgz"
 				},
 				"OS2.0.203.0.VMLMIXM": {
 					"os": "OS2.0.203.0.VMLMIXM",
@@ -837,7 +844,7 @@
 					"android": "15.0",
 					"release": "2025-11-13",
 					"recovery": "corot_eea_global-ota_full-OS2.0.208.0.VMLEUXM-user-15.0-b7595a0498.zip",
-					"fastboot": ""
+					"fastboot": "corot_eea_global_images_OS2.0.208.0.VMLEUXM_20251028.0000.00_15.0_eea_44d16bf26c.tgz"
 				},
 				"OS2.0.207.0.VMLEUXM": {
 					"os": "OS2.0.207.0.VMLEUXM",
@@ -996,6 +1003,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.205.0.VMLRUXM": {
+					"os": "OS2.0.205.0.VMLRUXM",
+					"android": "15.0",
+					"release": "2025-11-21",
+					"recovery": "corot_ru_global-ota_full-OS2.0.205.0.VMLRUXM-user-15.0-198871761c.zip",
+					"fastboot": ""
+				},
 				"OS2.0.204.0.VMLRUXM": {
 					"os": "OS2.0.204.0.VMLRUXM",
 					"android": "15.0",
@@ -1118,6 +1132,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.205.0.VMLTRXM": {
+					"os": "OS2.0.205.0.VMLTRXM",
+					"android": "15.0",
+					"release": "2025-11-21",
+					"recovery": "corot_tr_global-ota_full-OS2.0.205.0.VMLTRXM-user-15.0-4b549d2acc.zip",
+					"fastboot": ""
+				},
 				"OS2.0.204.0.VMLTRXM": {
 					"os": "OS2.0.204.0.VMLTRXM",
 					"android": "15.0",
