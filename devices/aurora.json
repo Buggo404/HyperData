@@ -238,8 +238,8 @@
 					"android": "16.0",
 					"release": "2025-11-13",
 					"recovery": "aurora-ota_full-OS3.0.4.0.WNACNXM-user-16.0-9ec54459b2.zip",
-					"fastboot": "",
-					"ctelecom": ""
+					"fastboot": "aurora_images_OS3.0.4.0.WNACNXM_20251111.0000.00_16.0_cn_799bf68ee4.tgz",
+					"ctelecom": "aurora_images_OS3.0.4.0.WNACNXM_20251111.0000.00_16.0_cn_chinatelecom_5616c69d2c.tgz"
 				},
 				"OS2.0.213.0.VNACNXM": {
 					"os": "OS2.0.213.0.VNACNXM",
@@ -668,7 +668,7 @@
 					"android": "15.0",
 					"release": "2025-11-17",
 					"recovery": "aurora_tw_global-ota_full-OS2.0.205.0.VNATWXM-user-15.0-9b9739e27c.zip",
-					"fastboot": ""
+					"fastboot": "aurora_tw_global_images_OS2.0.205.0.VNATWXM_20251105.0000.00_15.0_tw_e1284956c1.tgz"
 				},
 				"OS2.0.204.0.VNATWXM": {
 					"os": "OS2.0.204.0.VNATWXM",
