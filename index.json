@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2025-12-23 23:07:11",
+    "time": "2025-12-24 22:57:00",
     "developing": "no",
     "roms": [
       {
@@ -18,6 +18,22 @@
           "en": "Xiaomi 12 Pro"
         },
         "rom": "OS2.0.207.0.VLBMIXM; OS2.0.209.0.VLBEUXM; OS2.0.209.0.VLBINXM"
+      },
+      {
+        "code": "ishtar",
+        "name": {
+          "zh": "小米 13 Ultra",
+          "en": "Xiaomi 13 Ultra"
+        },
+        "rom": "OS2.0.210.0.VMAMIXM; OS2.0.206.0.VMAEUXM"
+      },
+      {
+        "code": "aristotle",
+        "name": {
+          "zh": "小米 13T",
+          "en": "Xiaomi 13T"
+        },
+        "rom": "OS2.0.206.0.VMFMIDC"
       },
       {
         "code": "aurora",
@@ -58,6 +74,22 @@
           "en": "Xiaomi 15T"
         },
         "rom": "OS3.0.7.0.WOEEUXM"
+      },
+      {
+        "code": "klimt",
+        "name": {
+          "zh": "小米 15T Pro",
+          "en": "Xiaomi 15T Pro"
+        },
+        "rom": "OS3.0.9.0.WOSEUXM"
+      },
+      {
+        "code": "pipa",
+        "name": {
+          "zh": "小米平板 6",
+          "en": "Xiaomi Pad 6"
+        },
+        "rom": "OS2.0.16.0.UMZCNXM; OS2.0.11.0.UMZTRXM"
       },
       {
         "code": "yudi",
@@ -105,7 +137,7 @@
           "zh": "Redmi 14C",
           "en": "Redmi 14C"
         },
-        "rom": "OS2.0.205.0.VGTEUXM"
+        "rom": "OS2.0.203.0.VGTMIDC; OS2.0.205.0.VGTEUXM"
       },
       {
         "code": "dew",
@@ -140,6 +172,14 @@
         "rom": "OS2.0.203.0.VMTINXM"
       },
       {
+        "code": "topaz",
+        "name": {
+          "zh": "Redmi Note 12 4G NFC",
+          "en": "Redmi Note 12 4G NFC"
+        },
+        "rom": "OS2.0.206.0.VMGEUXM"
+      },
+      {
         "code": "sweet_k6a",
         "name": {
           "zh": "Redmi Note 12 Pro 4G",
@@ -172,12 +212,20 @@
         "rom": "OS2.0.207.0.VNRMIDC"
       },
       {
+        "code": "zircon",
+        "name": {
+          "zh": "Redmi Note 13 Pro+ 5G",
+          "en": "Redmi Note 13 Pro+ 5G"
+        },
+        "rom": "OS3.0.5.0.WNOCNXM; OS2.0.207.0.VNOJPXM"
+      },
+      {
         "code": "tanzanite",
         "name": {
           "zh": "Redmi Note 14 4G",
           "en": "Redmi Note 14 4G"
         },
-        "rom": "OS2.0.207.0.VOGTWXM; OS2.0.207.0.VOGMIDC; OS2.0.211.0.VOGEUXM; OS2.0.208.0.VOGRUXM; OS2.0.208.0.VOGIDXM; OS2.0.209.0.VOGTRXM"
+        "rom": "OS2.0.207.0.VOGTWXM; OS2.0.207.0.VOGMIDC; OS2.0.211.0.VOGEUXM; OS2.0.208.0.VOGRUXM; OS2.0.208.0.VOGIDXM; OS2.0.209.0.VOGTRXM; OS2.0.203.0.VOGLMCR"
       },
       {
         "code": "obsidian",
@@ -201,7 +249,7 @@
           "zh": "Redmi Note 14 Pro+",
           "en": "Redmi Note 14 Pro+"
         },
-        "rom": "OS2.0.203.0.VOPIDXM"
+        "rom": "OS2.0.205.0.VOPMIDC; OS2.0.203.0.VOPIDXM"
       },
       {
         "code": "sapphiren",
