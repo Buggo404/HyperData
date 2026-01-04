@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2026-01-02 21:01:52",
+    "time": "2026-01-03 23:27:49",
     "developing": "no",
     "roms": [
       {
@@ -60,12 +60,28 @@
         "rom": "OS3.0.6.2.WOCCNXM; OS3.0.5.0.WOCMIXM"
       },
       {
+        "code": "xuanyuan",
+        "name": {
+          "zh": "小米 15 Ultra",
+          "en": "Xiaomi 15 Ultra"
+        },
+        "rom": "OS3.0.7.0.WOAEUXM"
+      },
+      {
         "code": "klimt",
         "name": {
           "zh": "小米 15T Pro",
           "en": "Xiaomi 15T Pro"
         },
-        "rom": "OS3.0.8.0.WOSMIXM"
+        "rom": "OS3.0.8.0.WOSMIXM; OS3.0.10.0.WOSEUXM"
+      },
+      {
+        "code": "fire",
+        "name": {
+          "zh": "Redmi 12 国际",
+          "en": "Redmi 12"
+        },
+        "rom": "OS2.0.207.0.VMXEUXM"
       },
       {
         "code": "earth",
@@ -100,6 +116,14 @@
         "rom": "OS3.0.1.0.WNTMIDC"
       },
       {
+        "code": "air",
+        "name": {
+          "zh": "Redmi 13C/R 5G / POCO M6 5G",
+          "en": "Redmi 13C/R 5G / POCO M6 5G"
+        },
+        "rom": "OS2.0.207.0.VGQEUXM"
+      },
+      {
         "code": "creek",
         "name": {
           "zh": "REDMI 15 4G",
@@ -129,7 +153,7 @@
           "zh": "REDMI 15 5G / REDMI Note 15R 5G",
           "en": "REDMI 15 5G / REDMI Note 15R 5G"
         },
-        "rom": "OS2.0.201.0.VOUTRXM; OS2.0.203.0.VOULMCR"
+        "rom": "OS2.0.207.0.VOUEUXM; OS2.0.201.0.VOUTRXM; OS2.0.203.0.VOULMCR"
       },
       {
         "code": "marble",
@@ -161,7 +185,7 @@
           "zh": "Redmi Note 12S",
           "en": "Redmi Note 12S"
         },
-        "rom": "OS2.0.209.0.VHZMIXM"
+        "rom": "OS2.0.209.0.VHZMIXM; OS2.0.208.0.VHZEUXM"
       },
       {
         "code": "garnet",
@@ -289,7 +313,7 @@
           "zh": "Redmi Pad Pro 5G / POCO Pad 5G",
           "en": "Redmi Pad Pro 5G / POCO Pad 5G"
         },
-        "rom": "OS2.0.207.0.VFSMIXM"
+        "rom": "OS2.0.207.0.VFSMIXM; OS2.0.207.0.VFSEUXM"
       },
       {
         "code": "serenity",
