@@ -50,7 +50,7 @@
 				"": {
 					"os": "",
 					"android": "16.0",
-					"release": "2025-05-12",
+					"release": "2026-01-22",
 					"recovery": "",
 					"fastboot": ""
 				}
@@ -280,6 +280,44 @@
 			},
 			"idtag": "GBOO",
 			"tag": "MIXM",
+			"branchtag": "F",
+			"table": [
+				"os",
+				"android",
+				"release",
+				"recovery",
+				"fastboot"
+			],
+			"show": "1",
+			"carrier": [
+				""
+			],
+			"region": "global",
+			"zone": "2",
+			"ep": "0",
+			"roms": {
+				"": {
+					"os": "",
+					"android": "16.0",
+					"release": "",
+					"recovery": "",
+					"fastboot": ""
+				}
+			}
+		},
+		{
+			"name": {
+				"zh": "小米澎湃 OS 国际版 Demo",
+				"en": "Xiaomi HyperOS Global Demo"
+			},
+			"branchCode": "",
+			"brand": "Xiaomi, REDMI, POCO",
+			"device": {
+				"zh": "",
+				"en": ""
+			},
+			"idtag": "GBOO",
+			"tag": "MIDM",
 			"branchtag": "F",
 			"table": [
 				"os",
