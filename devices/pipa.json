@@ -48,6 +48,13 @@
 			"zone": "1",
 			"ep": "0",
 			"roms": {
+				"OS2.0.19.0.UMZCNXM": {
+					"os": "OS2.0.19.0.UMZCNXM",
+					"android": "14.0",
+					"release": "2026-01-30",
+					"recovery": "pipa-ota_full-OS2.0.19.0.UMZCNXM-user-14.0-e1ea6f0555.zip",
+					"fastboot": ""
+				},
 				"OS2.0.16.0.UMZCNXM": {
 					"os": "OS2.0.16.0.UMZCNXM",
 					"android": "14.0",
@@ -308,6 +315,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.12.0.UMZTWXM": {
+					"os": "OS2.0.12.0.UMZTWXM",
+					"android": "14.0",
+					"release": "2026-02-02",
+					"recovery": "pipa_tw_global-ota_full-OS2.0.12.0.UMZTWXM-user-14.0-1135eff34a.zip",
+					"fastboot": ""
+				},
 				"OS2.0.11.0.UMZTWXM": {
 					"os": "OS2.0.11.0.UMZTWXM",
 					"android": "14.0",
@@ -479,6 +493,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.14.0.UMZMIXM": {
+					"os": "OS2.0.14.0.UMZMIXM",
+					"android": "14.0",
+					"release": "2026-02-02",
+					"recovery": "pipa_global-ota_full-OS2.0.14.0.UMZMIXM-user-14.0-bccb34f4ea.zip",
+					"fastboot": ""
+				},
 				"OS2.0.12.0.UMZMIXM": {
 					"os": "OS2.0.12.0.UMZMIXM",
 					"android": "14.0",
@@ -650,6 +671,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.12.0.UMZEUXM": {
+					"os": "OS2.0.12.0.UMZEUXM",
+					"android": "14.0",
+					"release": "2026-02-02",
+					"recovery": "pipa_eea_global-ota_full-OS2.0.12.0.UMZEUXM-user-14.0-9f43dde015.zip",
+					"fastboot": ""
+				},
 				"OS2.0.11.0.UMZEUXM": {
 					"os": "OS2.0.11.0.UMZEUXM",
 					"android": "14.0",
@@ -828,6 +856,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.12.0.UMZRUXM": {
+					"os": "OS2.0.12.0.UMZRUXM",
+					"android": "14.0",
+					"release": "2026-02-02",
+					"recovery": "pipa_ru_global-ota_full-OS2.0.12.0.UMZRUXM-user-14.0-c05de94845.zip",
+					"fastboot": ""
+				},
 				"OS2.0.11.0.UMZRUXM": {
 					"os": "OS2.0.11.0.UMZRUXM",
 					"android": "14.0",
@@ -1006,6 +1041,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.12.0.UMZINXM": {
+					"os": "OS2.0.12.0.UMZINXM",
+					"android": "14.0",
+					"release": "2026-02-02",
+					"recovery": "pipa_in_global-ota_full-OS2.0.12.0.UMZINXM-user-14.0-0055c699ab.zip",
+					"fastboot": ""
+				},
 				"OS2.0.11.0.UMZINXM": {
 					"os": "OS2.0.11.0.UMZINXM",
 					"android": "14.0",
@@ -1177,6 +1219,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.13.0.UMZIDXM": {
+					"os": "OS2.0.13.0.UMZIDXM",
+					"android": "14.0",
+					"release": "2026-02-02",
+					"recovery": "pipa_id_global-ota_full-OS2.0.13.0.UMZIDXM-user-14.0-f8f7ffce74.zip",
+					"fastboot": ""
+				},
 				"OS2.0.12.0.UMZIDXM": {
 					"os": "OS2.0.12.0.UMZIDXM",
 					"android": "14.0",

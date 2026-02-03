@@ -358,6 +358,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS3.0.4.0.WOYTWXM": {
+					"os": "OS3.0.4.0.WOYTWXM",
+					"android": "16.0",
+					"release": "2026-02-02",
+					"recovery": "muyu_tw_global-ota_full-OS3.0.4.0.WOYTWXM-user-16.0-3d5b98ef51.zip",
+					"fastboot": ""
+				},
 				"OS3.0.3.0.WOYTWXM": {
 					"os": "OS3.0.3.0.WOYTWXM",
 					"android": "16.0",
@@ -450,7 +457,7 @@
 					"android": "16.0",
 					"release": "2026-01-26",
 					"recovery": "muyu_global-ota_full-OS3.0.7.0.WOYMIXM-user-16.0-9a41f7c0bd.zip",
-					"fastboot": ""
+					"fastboot": "muyu_global_images_OS3.0.7.0.WOYMIXM_20260115.0000.00_16.0_global_635d8bdc4e.tgz"
 				},
 				"OS3.0.4.0.WOYMIXM": {
 					"os": "OS3.0.4.0.WOYMIXM",
@@ -546,6 +553,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS3.0.5.0.WOYEUXM": {
+					"os": "OS3.0.5.0.WOYEUXM",
+					"android": "16.0",
+					"release": "2026-02-02",
+					"recovery": "muyu_eea_global-ota_full-OS3.0.5.0.WOYEUXM-user-16.0-48bc6b453e.zip",
+					"fastboot": ""
+				},
 				"OS3.0.4.0.WOYEUXM": {
 					"os": "OS3.0.4.0.WOYEUXM",
 					"android": "16.0",
@@ -758,6 +772,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS3.0.4.0.WOYIDXM": {
+					"os": "OS3.0.4.0.WOYIDXM",
+					"android": "16.0",
+					"release": "2026-02-02",
+					"recovery": "muyu_id_global-ota_full-OS3.0.4.0.WOYIDXM-user-16.0-fb263e9a5a.zip",
+					"fastboot": ""
+				},
 				"OS3.0.3.0.WOYIDXM": {
 					"os": "OS3.0.3.0.WOYIDXM",
 					"android": "16.0",
@@ -852,6 +873,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS3.0.4.0.WOYTRXM": {
+					"os": "OS3.0.4.0.WOYTRXM",
+					"android": "16.0",
+					"release": "2026-02-02",
+					"recovery": "muyu_tr_global-ota_full-OS3.0.4.0.WOYTRXM-user-16.0-24a9539458.zip",
+					"fastboot": ""
+				},
 				"OS3.0.3.0.WOYTRXM": {
 					"os": "OS3.0.3.0.WOYTRXM",
 					"android": "16.0",
