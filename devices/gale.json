@@ -478,6 +478,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.204.0.VGPRUXM": {
+					"os": "OS2.0.204.0.VGPRUXM",
+					"android": "15.0",
+					"release": "2026-02-26",
+					"recovery": "gale_ru_global-ota_full-OS2.0.204.0.VGPRUXM-user-15.0-ad567f65d1.zip",
+					"fastboot": ""
+				},
 				"OS2.0.203.0.VGPRUXM": {
 					"os": "OS2.0.203.0.VGPRUXM",
 					"android": "15.0",
