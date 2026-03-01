@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2026-03-01 12:43:24",
+    "time": "2026-03-01 13:40:51",
     "developing": "no",
     "roms": [
       {
@@ -265,7 +265,7 @@
           "zh": "Redmi Note 14 Pro 4G",
           "en": "Redmi Note 14 Pro 4G"
         },
-        "rom": "OS2.0.213.0.VOFMIXM; OS2.0.215.0.VOFEUXM; OS2.0.206.0.VOFMXAT"
+        "rom": "OS3.0.4.0.WOFMIXM; OS2.0.213.0.VOFMIXM; OS2.0.215.0.VOFEUXM; OS2.0.206.0.VOFMXAT"
       },
       {
         "code": "beryl",
