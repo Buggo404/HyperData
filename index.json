@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2026-03-01 12:30:59",
+    "time": "2026-03-01 12:43:24",
     "developing": "no",
     "roms": [
       {
@@ -89,7 +89,7 @@
           "zh": "小米 17 Ultra",
           "en": "Xiaomi 17 Ultra"
         },
-        "rom": "OS3.0.15.0.WPACNXM; OS3.0.5.0.WPATWXM; OS3.0.4.0.WPATWXM; OS3.0.9.0.WPAMIXM; OS3.0.5.0.WPAMIXM; OS3.0.2.0.WPAMIXM; OS3.0.4.0.WPAMIDC; OS3.0.11.0.WPAEUXM; OS3.0.7.0.WPAEUXM; OS3.0.6.0.WPAEUXM; OS3.0.2.0.WPAEUXM; OS3.0.4.0.WPARUXM; OS3.0.2.0.WPAINXM; OS3.0.5.0.WPAIDXM; OS3.0.4.0.WPAIDXM; OS3.0.4.0.WPATRXM; OS3.0.3.0.WPATRXM; OS3.0.2.0.WPALMCR"
+        "rom": "OS3.0.15.0.WPACNXM; OS3.0.5.0.WPATWXM; OS3.0.4.0.WPATWXM; OS3.0.9.0.WPAMIXM; OS3.0.5.0.WPAMIXM; OS3.0.2.0.WPAMIXM; OS3.0.4.0.WPAMIDC; OS3.0.11.0.WPAEUXM; OS3.0.10.0.WPAEUXM; OS3.0.7.0.WPAEUXM; OS3.0.6.0.WPAEUXM; OS3.0.2.0.WPAEUXM; OS3.0.4.0.WPARUXM; OS3.0.2.0.WPAINXM; OS3.0.5.0.WPAIDXM; OS3.0.4.0.WPAIDXM; OS3.0.4.0.WPATRXM; OS3.0.3.0.WPATRXM; OS3.0.2.0.WPALMCR"
       },
       {
         "code": "piano",
@@ -210,6 +210,14 @@
           "en": "Redmi Note 12 Pro / Pro+ / Discovery 5G"
         },
         "rom": "OS2.0.19.0.UMOCNXM; OS2.0.13.0.UMOEUXM; OS2.0.10.0.UMORUXM; OS2.0.3.0.UMOLMCR; OS2.0.5.0.UMOLMMS"
+      },
+      {
+        "code": "tapas",
+        "name": {
+          "zh": "Redmi Note 12 4G",
+          "en": "Redmi Note 12 4G"
+        },
+        "rom": "OS2.0.203.0.VMTLMMS"
       },
       {
         "code": "sea",

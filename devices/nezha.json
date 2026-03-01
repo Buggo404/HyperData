@@ -383,6 +383,13 @@
           "recovery": "nezha_eea_global-ota_full-OS3.0.11.0.WPAEUXM-user-16.0-53b3876b3c.zip",
           "fastboot": "nezha_eea_global_images_OS3.0.11.0.WPAEUXM_20260210.0000.00_16.0_eea_d01c255e12.tgz"
         },
+        "OS3.0.10.0.WPAEUXM": {
+          "os": "OS3.0.10.0.WPAEUXM",
+          "android": "16.0",
+          "release": "2026-02-28",
+          "recovery": "nezha_eea_global-ota_full-OS3.0.10.0.WPAEUXM-user-16.0-8afe963fae.zip",
+          "fastboot": ""
+        },
         "OS3.0.7.0.WPAEUXM": {
           "os": "OS3.0.7.0.WPAEUXM",
           "android": "16.0",
