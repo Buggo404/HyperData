@@ -51,6 +51,13 @@
 			"zone": "1",
 			"ep": "0",
 			"roms": {
+				"OS3.0.300.6.WNACNXM": {
+					"os": "OS3.0.300.6.WNACNXM",
+					"android": "16.0",
+					"release": "2026-03-06",
+					"recovery": "aurora-ota_full-OS3.0.300.6.WNACNXM-user-16.0-77f288295c.zip",
+					"fastboot": ""
+				},
 				"OS3.0.300.4.WNACNXM": {
 					"os": "OS3.0.300.4.WNACNXM",
 					"android": "16.0",
@@ -701,6 +708,13 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS3.0.3.0.WNATWXM": {
+					"os": "OS3.0.3.0.WNATWXM",
+					"android": "16.0",
+					"release": "2026-03-06",
+					"recovery": "aurora_tw_global-ota_full-OS3.0.3.0.WNATWXM-user-16.0-f47e6e2d13.zip",
+					"fastboot": ""
+				},
 				"OS3.0.1.0.WNATWXM": {
 					"os": "OS3.0.1.0.WNATWXM",
 					"android": "16.0",
@@ -1041,7 +1055,7 @@
 					"android": "16.0",
 					"release": "2026-02-09",
 					"recovery": "aurora_eea_global-ota_full-OS3.0.3.0.WNAEUXM-user-16.0-b529ec326f.zip",
-					"fastboot": ""
+					"fastboot": "aurora_eea_global_images_OS3.0.3.0.WNAEUXM_20260122.0000.00_16.0_eea_83adf6bd88.tgz"
 				},
 				"OS3.0.2.0.WNAEUXM": {
 					"os": "OS3.0.2.0.WNAEUXM",
@@ -1369,7 +1383,7 @@
 					"android": "16.0",
 					"release": "2026-03-04",
 					"recovery": "aurora_in_global-ota_full-OS3.0.5.0.WNAINXM-user-16.0-c41543f9b2.zip",
-					"fastboot": ""
+					"fastboot": "aurora_in_global_images_OS3.0.5.0.WNAINXM_20260206.0000.00_16.0_in_7fad35e24d.tgz"
 				},
 				"OS3.0.3.0.WNAINXM": {
 					"os": "OS3.0.3.0.WNAINXM",
