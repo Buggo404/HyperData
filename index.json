@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2026-04-01 11:12:45",
+    "time": "2026-04-01 22:27:04",
     "developing": "no",
     "roms": [
       {
@@ -20,12 +20,20 @@
         "rom": "OS3.0.2.0.VLBTWXM; OS3.0.2.0.VLBRUXM; OS3.0.2.0.VLBINXM; OS3.0.3.0.VLBIDXM; OS3.0.2.0.VLBTRXM"
       },
       {
+        "code": "aristotle",
+        "name": {
+          "zh": "小米 13T",
+          "en": "Xiaomi 13T"
+        },
+        "rom": "OS2.0.205.0.VMFMXAT"
+      },
+      {
         "code": "degas",
         "name": {
           "zh": "小米 14T",
           "en": "Xiaomi 14T"
         },
-        "rom": "OS2.0.203.0.VNEMXAT"
+        "rom": "OS3.0.6.0.WNEMIDC; OS2.0.203.0.VNEMXAT"
       },
       {
         "code": "piano",
@@ -42,6 +50,14 @@
           "en": "Xiaomi Pad 8"
         },
         "rom": "OS3.0.301.0.WPZTWXM; OS3.0.301.0.WPZMIXM; OS3.0.301.0.WPZEUXM; OS3.0.301.0.WPZRUXM; OS3.0.301.0.WPZINXM; OS3.0.301.0.WPZIDXM; OS3.0.301.0.WPZTRXM"
+      },
+      {
+        "code": "fire",
+        "name": {
+          "zh": "Redmi 12 国际",
+          "en": "Redmi 12"
+        },
+        "rom": "OS2.0.204.0.VMXMXAT"
       },
       {
         "code": "gale",
@@ -81,7 +97,7 @@
           "zh": "REDMI 15 5G / REDMI Note 15R 5G",
           "en": "REDMI 15 5G / REDMI Note 15R 5G"
         },
-        "rom": "OS3.0.1.0.WOUEUXM"
+        "rom": "OS2.0.209.0.VOUMIXM; OS3.0.1.0.WOUEUXM"
       },
       {
         "code": "marble",
@@ -140,6 +156,14 @@
         "rom": "OS3.0.3.0.WPGMIXM; OS2.0.212.0.VPGEUXM"
       },
       {
+        "code": "lapis",
+        "name": {
+          "zh": "REDMI Note 15 Pro 5G",
+          "en": "REDMI Note 15 Pro 5G"
+        },
+        "rom": "OS3.0.2.0.WPPEUXM"
+      },
+      {
         "code": "flourite",
         "name": {
           "zh": "REDMI Note 15 Pro+ 5G",
@@ -170,6 +194,14 @@
           "en": "Redmi K60 / POCO F5 Pro"
         },
         "rom": "OS3.0.2.0.VMNTWXM; OS3.0.2.0.VMNEUXM; OS3.0.2.0.VMNRUXM; OS3.0.2.0.VMNTRXM"
+      },
+      {
+        "code": "duchamp",
+        "name": {
+          "zh": "Redmi K70E / POCO X6 Pro 5G",
+          "en": "Redmi K70E / POCO X6 Pro 5G"
+        },
+        "rom": "OS3.0.4.0.WNLMIXM; OS3.0.3.0.WNLINXM"
       },
       {
         "code": "miro",
@@ -265,7 +297,7 @@
           "zh": "REDMI A5 / POCO C71",
           "en": "REDMI A5 / POCO C71"
         },
-        "rom": "A15.0.13.0.VGWEUXM; A15.0.9.0.VGWIDXM"
+        "rom": "A15.0.22.0.VGWMIXM; A15.0.13.0.VGWEUXM; A15.0.9.0.VGWIDXM"
       }
     ]
   }
