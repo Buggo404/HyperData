@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2026-04-15 02:51:26",
+    "time": "2026-04-16 00:36:28",
     "developing": "no",
     "roms": [
       {
@@ -90,6 +90,14 @@
           "en": "Redmi Note 12 Pro Speed / POCO X5 Pro 5G"
         },
         "rom": "OS2.0.15.0.UMSIDXM"
+      },
+      {
+        "code": "pearl",
+        "name": {
+          "zh": "Redmi Note 12T Pro",
+          "en": "Redmi Note 12T Pro"
+        },
+        "rom": "OS3.0.3.0.VLHCNXM"
       },
       {
         "code": "sea",
@@ -196,6 +204,14 @@
         "rom": "OS3.0.302.0.WOLCNXM"
       },
       {
+        "code": "duchamp",
+        "name": {
+          "zh": "Redmi K70E / POCO X6 Pro 5G",
+          "en": "Redmi K70E / POCO X6 Pro 5G"
+        },
+        "rom": "OS3.0.303.0.WNLCNXM"
+      },
+      {
         "code": "vermeer",
         "name": {
           "zh": "Redmi K70 / POCO F6 Pro",
@@ -250,6 +266,14 @@
           "en": "REDMI A5 / POCO C71"
         },
         "rom": "A15.0.12.0.VGWEUVF; A15.0.12.0.VGWRUXM; A15.0.15.0.VGWINXM"
+      },
+      {
+        "code": "somalia",
+        "name": {
+          "zh": "POCO C85x 5G",
+          "en": "POCO C85x 5G"
+        },
+        "rom": "OS3.0.4.0.WBWINXM"
       }
     ]
   }
