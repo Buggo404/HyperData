@@ -1,7 +1,7 @@
 {
 	"device": "uke",
 	"name": {
-		"zh": "小米平板7",
+		"zh": "小米平板 7",
 		"en": "Xiaomi Pad 7"
 	},
 	"code": "OZ",
@@ -25,7 +25,7 @@
 			"branchCode": "uke",
 			"brand": "Xiaomi",
 			"device": {
-				"zh": "小米平板7",
+				"zh": "小米平板 7",
 				"en": "Xiaomi Pad 7"
 			},
 			"idtag": "CnOB",
@@ -94,7 +94,7 @@
 			"branchCode": "uke",
 			"brand": "Xiaomi",
 			"device": {
-				"zh": "小米平板7",
+				"zh": "小米平板 7",
 				"en": "Xiaomi Pad 7"
 			},
 			"idtag": "CnOO",
@@ -247,7 +247,7 @@
 			"branchCode": "uke_demo",
 			"brand": "Xiaomi",
 			"device": {
-				"zh": "小米平板7",
+				"zh": "小米平板 7",
 				"en": "Xiaomi Pad 7"
 			},
 			"idtag": "CnOD",
@@ -302,7 +302,7 @@
 			"branchCode": "uke_tw_global",
 			"brand": "Xiaomi, POCO",
 			"device": {
-				"zh": "小米平板7 / POCO Pad X1",
+				"zh": "小米平板 7 / POCO Pad X1",
 				"en": "Xiaomi Pad 7 / POCO Pad X1"
 			},
 			"idtag": "CNTP",
@@ -328,7 +328,7 @@
 					"android": "16.0",
 					"release": "2026-04-14",
 					"recovery": "uke_tw_global-ota_full-OS3.0.3.0.WOZTWXM-user-16.0-1208885136.zip",
-					"fastboot": ""
+					"fastboot": "uke_tw_global_images_OS3.0.3.0.WOZTWXM_20260323.0000.00_16.0_tw_0916cc53b9.tgz"
 				},
 				"OS3.0.2.0.WOZTWXM": {
 					"os": "OS3.0.2.0.WOZTWXM",
@@ -403,7 +403,7 @@
 			"branchCode": "uke_global",
 			"brand": "Xiaomi, POCO",
 			"device": {
-				"zh": "小米平板7 / POCO Pad X1",
+				"zh": "小米平板 7 / POCO Pad X1",
 				"en": "Xiaomi Pad 7 / POCO Pad X1"
 			},
 			"idtag": "GBOO",
@@ -511,7 +511,7 @@
 			"branchCode": "uke_eea_global",
 			"brand": "Xiaomi, POCO",
 			"device": {
-				"zh": "小米平板7 / POCO Pad X1",
+				"zh": "小米平板 7 / POCO Pad X1",
 				"en": "Xiaomi Pad 7 / POCO Pad X1"
 			},
 			"idtag": "EEAO",
@@ -619,7 +619,7 @@
 			"branchCode": "uke_eea_global",
 			"brand": "Xiaomi, POCO",
 			"device": {
-				"zh": "小米平板7 / POCO Pad X1",
+				"zh": "小米平板 7 / POCO Pad X1",
 				"en": "Xiaomi Pad 7 / POCO Pad X1"
 			},
 			"idtag": "EEAD",
@@ -657,7 +657,7 @@
 			"branchCode": "uke_ru_global",
 			"brand": "Xiaomi, POCO",
 			"device": {
-				"zh": "小米平板7 / POCO Pad X1",
+				"zh": "小米平板 7 / POCO Pad X1",
 				"en": "Xiaomi Pad 7 / POCO Pad X1"
 			},
 			"idtag": "RUSO",
@@ -683,7 +683,7 @@
 					"android": "16.0",
 					"release": "2026-04-14",
 					"recovery": "uke_ru_global-ota_full-OS3.0.3.0.WOZRUXM-user-16.0-acc255c5b0.zip",
-					"fastboot": ""
+					"fastboot": "uke_ru_global_images_OS3.0.3.0.WOZRUXM_20260323.0000.00_16.0_ru_3fd648de32.tgz"
 				},
 				"OS3.0.2.0.WOZRUXM": {
 					"os": "OS3.0.2.0.WOZRUXM",
@@ -758,7 +758,7 @@
 			"branchCode": "uke_in_global",
 			"brand": "Xiaomi, POCO",
 			"device": {
-				"zh": "小米平板7 / POCO Pad X1",
+				"zh": "小米平板 7 / POCO Pad X1",
 				"en": "Xiaomi Pad 7 / POCO Pad X1"
 			},
 			"idtag": "INSO",
@@ -866,7 +866,7 @@
 			"branchCode": "uke_id_global",
 			"brand": "Xiaomi, POCO",
 			"device": {
-				"zh": "小米平板7 / POCO Pad X1",
+				"zh": "小米平板 7 / POCO Pad X1",
 				"en": "Xiaomi Pad 7 / POCO Pad X1"
 			},
 			"idtag": "IDSO",
@@ -892,7 +892,7 @@
 					"android": "16.0",
 					"release": "2026-04-14",
 					"recovery": "uke_id_global-ota_full-OS3.0.3.0.WOZIDXM-user-16.0-f9fdca5ecc.zip",
-					"fastboot": ""
+					"fastboot": "uke_id_global_images_OS3.0.3.0.WOZIDXM_20260323.0000.00_16.0_id_6c4f730820.tgz"
 				},
 				"OS3.0.2.0.WOZIDXM": {
 					"os": "OS3.0.2.0.WOZIDXM",
@@ -967,7 +967,7 @@
 			"branchCode": "uke_tr_global",
 			"brand": "Xiaomi, POCO",
 			"device": {
-				"zh": "小米平板7 / POCO Pad X1",
+				"zh": "小米平板 7 / POCO Pad X1",
 				"en": "Xiaomi Pad 7 / POCO Pad X1"
 			},
 			"idtag": "TRSO",
@@ -993,7 +993,7 @@
 					"android": "16.0",
 					"release": "2026-04-14",
 					"recovery": "uke_tr_global-ota_full-OS3.0.3.0.WOZTRXM-user-16.0-af91ea78ed.zip",
-					"fastboot": ""
+					"fastboot": "uke_tr_global_images_OS3.0.3.0.WOZTRXM_20260323.0000.00_16.0_tr_d13f9cd10e.tgz"
 				},
 				"OS3.0.2.0.WOZTRXM": {
 					"os": "OS3.0.2.0.WOZTRXM",

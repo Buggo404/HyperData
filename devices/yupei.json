@@ -1,7 +1,7 @@
 {
   "device": "yupei",
   "name": {
-    "zh": "小米 Pad 8",
+    "zh": "小米平板 8",
     "en": "Xiaomi Pad 8"
   },
   "code": "",
@@ -23,7 +23,7 @@
       "branchCode": "yupei",
       "brand": "Xiaomi",
       "device": {
-        "zh": "小米 Pad 8",
+        "zh": "小米平板 8",
         "en": "Xiaomi Pad 8"
       },
       "idtag": "CnOB",
@@ -71,7 +71,7 @@
       "branchCode": "yupei",
       "brand": "Xiaomi",
       "device": {
-        "zh": "小米 Pad 8",
+        "zh": "小米平板 8",
         "en": "Xiaomi Pad 8"
       },
       "idtag": "CnOO",
@@ -175,7 +175,7 @@
       "branchCode": "yupei_demo",
       "brand": "Xiaomi",
       "device": {
-        "zh": "小米 Pad 8",
+        "zh": "小米平板 8",
         "en": "Xiaomi Pad 8"
       },
       "idtag": "CnOD",
@@ -244,7 +244,7 @@
       "branchCode": "yupei_tw_global",
       "brand": "Xiaomi",
       "device": {
-        "zh": "小米 Pad 8",
+        "zh": "小米平板 8",
         "en": "Xiaomi Pad 8"
       },
       "idtag": "CNTP",
@@ -289,7 +289,7 @@
       "branchCode": "yupei_global",
       "brand": "Xiaomi",
       "device": {
-        "zh": "小米 Pad 8",
+        "zh": "小米平板 8",
         "en": "Xiaomi Pad 8"
       },
       "idtag": "GBOO",
@@ -315,7 +315,7 @@
           "android": "16.0",
           "release": "2026-04-16",
           "recovery": "yupei_global-ota_full-OS3.0.302.0.WPZMIXM-user-16.0-731bf6984c.zip",
-          "fastboot": ""
+          "fastboot": "yupei_global_images_OS3.0.302.0.WPZMIXM_20260407.0000.00_16.0_global_00ecb4c7de.tgz"
         },
         "OS3.0.301.0.WPZMIXM": {
           "os": "OS3.0.301.0.WPZMIXM",
@@ -341,7 +341,7 @@
       "branchCode": "yupei_eea_global",
       "brand": "Xiaomi",
       "device": {
-        "zh": "小米 Pad 8",
+        "zh": "小米平板 8",
         "en": "Xiaomi Pad 8"
       },
       "idtag": "EEAO",
@@ -367,7 +367,7 @@
           "android": "16.0",
           "release": "2026-04-16",
           "recovery": "yupei_eea_global-ota_full-OS3.0.303.0.WPZEUXM-user-16.0-5f79d3323a.zip",
-          "fastboot": ""
+          "fastboot": "yupei_eea_global_images_OS3.0.303.0.WPZEUXM_20260407.0000.00_16.0_eea_cde066df15.tgz"
         },
         "OS3.0.301.0.WPZEUXM": {
           "os": "OS3.0.301.0.WPZEUXM",
@@ -393,7 +393,7 @@
       "branchCode": "yupei_ru_global",
       "brand": "Xiaomi",
       "device": {
-        "zh": "小米 Pad 8",
+        "zh": "小米平板 8",
         "en": "Xiaomi Pad 8"
       },
       "idtag": "RUSO",
@@ -445,7 +445,7 @@
       "branchCode": "yupei_in_global",
       "brand": "Xiaomi",
       "device": {
-        "zh": "小米 Pad 8",
+        "zh": "小米平板 8",
         "en": "Xiaomi Pad 8"
       },
       "idtag": "INSO",
@@ -490,7 +490,7 @@
       "branchCode": "yupei_id_global",
       "brand": "Xiaomi",
       "device": {
-        "zh": "小米 Pad 8",
+        "zh": "小米平板 8",
         "en": "Xiaomi Pad 8"
       },
       "idtag": "IDSO",
@@ -535,7 +535,7 @@
       "branchCode": "yupei_id_global",
       "brand": "Xiaomi",
       "device": {
-        "zh": "小米 Pad 8",
+        "zh": "小米平板 8",
         "en": "Xiaomi Pad 8"
       },
       "idtag": "IDDM",
@@ -573,7 +573,7 @@
       "branchCode": "yupei_tr_global",
       "brand": "Xiaomi",
       "device": {
-        "zh": "小米 Pad 8",
+        "zh": "小米平板 8",
         "en": "Xiaomi Pad 8"
       },
       "idtag": "TRSO",
