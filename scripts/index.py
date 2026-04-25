@@ -16,7 +16,7 @@ updates = {
 	"recent":{
 		"time": "",
 		"developing": "no",
-		"roms": []
+		"roms": {}
 	}
 }
 updates["recent"]['time'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -28,26 +28,25 @@ for device in OScommon.order:
 		"zh": devdata['name']['zh'],
 		"en": devdata['name']['en']
 	}
-	roms = ""
+	device_roms = []
 	for num in range(len(devdata['branches'])):
 		tag = devdata['branches'][num]['idtag']
 		branch = devdata["branches"][num]["branchtag"]
 		if branch == 'X' or branch == 'D' or "Enterprise" in devdata["branches"][num]["name"]["en"] or "EP" in devdata["branches"][num]["name"]["en"] or "Demo" in devdata["branches"][num]["name"]["en"]:
 			i = 0
 		else:
-			for rom in devdata['branches'][num]['roms']:
-				if devdata['branches'][num]['roms'][rom]['release'] in weeks:
-					if devdata['branches'][num]['roms'][rom]['os'] in roms:
-						i = 0
-					else:
-						roms = roms + "; " + devdata['branches'][num]['roms'][rom]['os']
-	if roms[2:] == "":
-		i = 0
-	elif roms[2:] in updates.__str__():
-		i = 0
-	else:
-		json_str = '{"code": "'+code+'",''"name": '+json.dumps(name)+',"rom": "'+roms[2:]+'"}'
-		updates["recent"]['roms'].append(json.loads(json_str))
+			for rom_version, rom_data in devdata['branches'][num]['roms'].items():
+				if rom_data['release'] in weeks:
+					device_roms.append({
+						"release_date": rom_data['release'],
+						"version": rom_data['os']
+					})
+	
+	if device_roms:
+		updates["recent"]['roms'][code] = {
+			"name": name,
+			"versions": device_roms
+		}
 
 with open('public/data/index.json', 'w', encoding='utf-8') as f:
 	json.dump(updates, f, ensure_ascii=False, indent=2)
@@ -80,6 +79,45 @@ for device in OScommon.currentStable:
 if 1 in list(set(errors)):
 	print("数据有误，请核实后提交git")
 else:
+	print("开始更新 devices.json 中的 supports 和 android 字段...")
+	
+	# 读取 devices.json
+	devices_json_path = 'public/data/devices.json'
+	with open(devices_json_path, 'r', encoding='utf-8') as f:
+		devices_data = json.load(f)
+	updated_count = 0
+	for brand_key in devices_data:
+		brand_info = devices_data[brand_key]
+		if 'devices' not in brand_info:
+			continue
+		for device_idx, device_info in enumerate(brand_info['devices']):
+			code = device_info.get('code')
+			if not code:
+				continue
+			device_file_path = f'public/data/devices/{code}.json'
+			if not os.path.exists(device_file_path):
+				print(f"  ⚠ 警告: 设备文件不存在 - {device_file_path}")
+				continue
+			
+			try:
+				with open(device_file_path, 'r', encoding='utf-8') as f:
+					device_data = json.load(f)
+				supports = device_data.get('suppports', [])
+				android = device_data.get('android', [])
+				
+				if supports or android:
+					devices_data[brand_key]['devices'][device_idx]['supports'] = supports
+					devices_data[brand_key]['devices'][device_idx]['android'] = android
+					updated_count += 1
+					
+			except Exception as e:
+				print(f"  ✗ 错误: 处理 {code} 时出错 - {str(e)}")
+				continue
+	with open(devices_json_path, 'w', encoding='utf-8') as f:
+		json.dump(devices_data, f, ensure_ascii=False, indent='\t')
+	
+	print(f"✓ 完成！共更新了 {updated_count} 个设备的 supports 和 android 字段")
+	print()
 	os.system(f"cd public/data && git add . && git commit -m {updates['recent']['time'].replace(" " , "-")} && git push origin main")
 	time.sleep(8)
 	os.system(f"curl -X POST \"{config.deploy_url}\"")
