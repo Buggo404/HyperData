@@ -1,8 +1,32 @@
 {
   "recent": {
-    "time": "2026-05-12 10:11:01",
+    "time": "2026-05-12 23:30:07",
     "developing": "no",
     "roms": {
+      "shennong": {
+        "name": {
+          "zh": "小米 14 Pro / Ti / 钛金属卫星通讯版",
+          "en": "Xiaomi 14 Pro / Ti / Satellite"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-12",
+            "version": "OS3.0.306.0.WNBCNXM"
+          }
+        ]
+      },
+      "aurora": {
+        "name": {
+          "zh": "小米 14 Ultra / Ultra Ti",
+          "en": "Xiaomi 14 Ultra"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-12",
+            "version": "OS3.0.301.0.WNATRXM"
+          }
+        ]
+      },
       "klimt": {
         "name": {
           "zh": "小米 15T Pro",
