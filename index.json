@@ -1,6 +1,6 @@
 {
   "recent": {
-    "time": "2026-05-27 22:57:01",
+    "time": "2026-05-29 11:23:32",
     "developing": "no",
     "roms": {
       "thor": {
@@ -15,6 +15,18 @@
           }
         ]
       },
+      "fuxi": {
+        "name": {
+          "zh": "小米 13",
+          "en": "Xiaomi 13"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.301.0.WMCEUXM"
+          }
+        ]
+      },
       "aristotle": {
         "name": {
           "zh": "小米 13T",
@@ -24,6 +36,102 @@
           {
             "release_date": "2026-05-25",
             "version": "OS2.0.209.0.VMFMIDC"
+          },
+          {
+            "release_date": "2026-05-28",
+            "version": "OS2.0.203.0.VMFLMCR"
+          }
+        ]
+      },
+      "dada": {
+        "name": {
+          "zh": "小米 15",
+          "en": "Xiaomi 15"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.4.0.WOCLMCR"
+          }
+        ]
+      },
+      "xuanyuan": {
+        "name": {
+          "zh": "小米 15 Ultra",
+          "en": "Xiaomi 15 Ultra"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.301.0.WOATWXM"
+          },
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.301.0.WOAIDXM"
+          }
+        ]
+      },
+      "goya": {
+        "name": {
+          "zh": "小米 15T",
+          "en": "Xiaomi 15T"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-27",
+            "version": "OS3.0.304.0.WOEEUXM"
+          }
+        ]
+      },
+      "klimt": {
+        "name": {
+          "zh": "小米 15T Pro",
+          "en": "Xiaomi 15T Pro"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-26",
+            "version": "OS3.0.303.0.WOSEUXM"
+          }
+        ]
+      },
+      "pudding": {
+        "name": {
+          "zh": "小米 17",
+          "en": "Xiaomi 17"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-27",
+            "version": "OS3.0.311.0.WPCCNXM"
+          },
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.302.0.WPCMIXM"
+          },
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.302.0.WPCRUXM"
+          },
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.302.0.WPCIDXM"
+          },
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.302.0.WPCTRXM"
+          }
+        ]
+      },
+      "pandora": {
+        "name": {
+          "zh": "小米 17 Pro",
+          "en": "Xiaomi 17 Pro"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-27",
+            "version": "OS3.0.311.0.WBLCNXM"
           }
         ]
       },
@@ -39,6 +147,18 @@
           }
         ]
       },
+      "popsicle": {
+        "name": {
+          "zh": "小米 17 Pro Max",
+          "en": "Xiaomi 17 Pro Max"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-27",
+            "version": "OS3.0.311.0.WPBCNXM"
+          }
+        ]
+      },
       "nezha": {
         "name": {
           "zh": "小米 17 Ultra",
@@ -48,6 +168,74 @@
           {
             "release_date": "2026-05-25",
             "version": "OS3.0.307.0.WPACNXM"
+          }
+        ]
+      },
+      "chagall": {
+        "name": {
+          "zh": "Xiaomi 17T",
+          "en": "Xiaomi 17T"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.306.0.WPTTWXM"
+          },
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.303.0.WPTMIXM"
+          },
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.304.0.WPTMIDC"
+          },
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.311.0.WPTEUXM"
+          },
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.302.0.WPTRUXM"
+          },
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.301.0.WPTINXM"
+          },
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.302.0.WPTIDXM"
+          },
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.301.0.WPTTRXM"
+          },
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.302.0.WPTLMCR"
+          }
+        ]
+      },
+      "warhol": {
+        "name": {
+          "zh": "Xiaomi 17T Pro",
+          "en": "Xiaomi 17T Pro"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.303.0.WPSTWXM"
+          },
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.304.0.WPSMIDC"
+          },
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.303.0.WPSJPXM"
+          },
+          {
+            "release_date": "2026-05-28",
+            "version": "OS3.0.302.0.WPSLMCR"
           }
         ]
       },
@@ -72,6 +260,30 @@
           {
             "release_date": "2026-05-27",
             "version": "OS3.0.306.0.WNVCNXM"
+          }
+        ]
+      },
+      "ziyi": {
+        "name": {
+          "zh": "小米 Civi 2",
+          "en": "Xiaomi Civi 2"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-27",
+            "version": "OS3.0.3.0.VLLTWXM"
+          },
+          {
+            "release_date": "2026-05-26",
+            "version": "OS3.0.3.0.VLLMIXM"
+          },
+          {
+            "release_date": "2026-05-26",
+            "version": "OS3.0.3.0.VLLRUXM"
+          },
+          {
+            "release_date": "2026-05-27",
+            "version": "OS3.0.3.0.VLLTRXM"
           }
         ]
       },
@@ -108,6 +320,18 @@
           {
             "release_date": "2026-05-25",
             "version": "OS3.0.1.0.WBOLMCR"
+          }
+        ]
+      },
+      "spring": {
+        "name": {
+          "zh": "REDMI 15 5G / REDMI Note 15R 5G",
+          "en": "REDMI 15 5G / REDMI Note 15R 5G"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.6.0.WOUTWXM"
           }
         ]
       },
@@ -166,8 +390,56 @@
         },
         "versions": [
           {
+            "release_date": "2026-05-26",
+            "version": "OS3.0.306.0.WPPCNXM"
+          },
+          {
+            "release_date": "2026-05-26",
+            "version": "OS3.0.305.0.WPPMIXM"
+          },
+          {
             "release_date": "2026-05-27",
             "version": "OS2.0.206.0.VPPLMCR"
+          }
+        ]
+      },
+      "charoite": {
+        "name": {
+          "zh": "REDMI Note 15 Pro 4G",
+          "en": "REDMI Note 15 Pro 4G"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.2.0.WPFMIDC"
+          }
+        ]
+      },
+      "diting": {
+        "name": {
+          "zh": "Redmi K50 至尊版 / 小米 12T Pro",
+          "en": "Redmi K50 Ultra / Xiaomi 12T Pro"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.3.0.VLFTWXM"
+          },
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.4.0.VLFMIXM"
+          },
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.3.0.VLFRUXM"
+          },
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.3.0.VLFTRXM"
+          },
+          {
+            "release_date": "2026-05-25",
+            "version": "OS1.0.26.0.ULFJPXM"
           }
         ]
       },
@@ -195,6 +467,46 @@
           }
         ]
       },
+      "flare": {
+        "name": {
+          "zh": "Redmi Pad SE 8.7 Wi-Fi",
+          "en": "Redmi Pad SE 8.7 Wi-Fi"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.301.0.WHXMIXM"
+          }
+        ]
+      },
+      "spark": {
+        "name": {
+          "zh": "Redmi 平板 SE 4G 8.7",
+          "en": "Redmi Pad SE 4G 8.7"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-25",
+            "version": "OS3.0.302.0.WHYMIXM"
+          },
+          {
+            "release_date": "2026-05-26",
+            "version": "OS3.0.5.0.WHYEUXM"
+          }
+        ]
+      },
+      "dizi": {
+        "name": {
+          "zh": "Redmi Pad Pro / 哈利·波特版 / POCO Pad",
+          "en": "Redmi Pad Pro / Special Edition featuring Harry Potter / POCO Pad"
+        },
+        "versions": [
+          {
+            "release_date": "2026-05-26",
+            "version": "OS3.0.301.0.WNSMIXM"
+          }
+        ]
+      },
       "serenity": {
         "name": {
           "zh": "REDMI A5 / POCO C71",
@@ -204,6 +516,10 @@
           {
             "release_date": "2026-05-27",
             "version": "A15.0.11.0.VGWEUTF"
+          },
+          {
+            "release_date": "2026-05-28",
+            "version": "A15.0.10.0.VGWIDXM"
           }
         ]
       }
