@@ -1,8 +1,20 @@
 {
   "recent": {
-    "time": "2026-06-04 23:51:31",
+    "time": "2026-06-06 10:37:51",
     "developing": "no",
     "roms": {
+      "cupid": {
+        "name": {
+          "zh": "小米 12",
+          "en": "Xiaomi 12"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-05",
+            "version": "OS2.0.205.0.VLCMXAT"
+          }
+        ]
+      },
       "zeus": {
         "name": {
           "zh": "小米 12 Pro",
@@ -12,6 +24,34 @@
           {
             "release_date": "2026-06-01",
             "version": "OS3.0.3.0.VLBCNXM"
+          }
+        ]
+      },
+      "aurora": {
+        "name": {
+          "zh": "小米 14 Ultra / Ultra Ti",
+          "en": "Xiaomi 14 Ultra"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-05",
+            "version": "OS3.0.305.0.WNACNXM"
+          }
+        ]
+      },
+      "degas": {
+        "name": {
+          "zh": "小米 14T",
+          "en": "Xiaomi 14T"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-02",
+            "version": "OS3.0.301.0.WNETWXM"
+          },
+          {
+            "release_date": "2026-06-02",
+            "version": "OS3.0.301.0.WNETRXM"
           }
         ]
       },
@@ -103,6 +143,18 @@
           }
         ]
       },
+      "flame": {
+        "name": {
+          "zh": "Redmi 14R 5G / POCO M7 5G",
+          "en": "Redmi 14R 5G / POCO M7 5G"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-01",
+            "version": "OS3.0.301.0.WGUINXM"
+          }
+        ]
+      },
       "dew": {
         "name": {
           "zh": "REDMI 15C / POCO C85",
@@ -120,6 +172,30 @@
           {
             "release_date": "2026-06-01",
             "version": "OS2.0.207.0.VBNTRXM"
+          }
+        ]
+      },
+      "tornado": {
+        "name": {
+          "zh": "REDMI 15C 5G / REDMI 15R 5G",
+          "en": "REDMI 15C 5G / REDMI 15R 5G"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-01",
+            "version": "OS2.0.209.0.VPOEUXM"
+          }
+        ]
+      },
+      "spring": {
+        "name": {
+          "zh": "REDMI 15 5G / REDMI Note 15R 5G",
+          "en": "REDMI 15 5G / REDMI Note 15R 5G"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-02",
+            "version": "OS3.0.302.0.WOUMIXM"
           }
         ]
       },
@@ -147,6 +223,18 @@
           }
         ]
       },
+      "malachite": {
+        "name": {
+          "zh": "Redmi Note 14 Pro / POCO X7",
+          "en": "Redmi Note 14 Pro / POCO X7"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-02",
+            "version": "OS3.0.301.0.WOOINXM"
+          }
+        ]
+      },
       "sapphire": {
         "name": {
           "zh": "Redmi Note 13 4G",
@@ -159,6 +247,18 @@
           }
         ]
       },
+      "klee": {
+        "name": {
+          "zh": "REDMI Turbo 5 / POCO X8 Pro",
+          "en": "REDMI Turbo 5 / POCO X8 Pro"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-05",
+            "version": "OS3.0.302.0.WPJTWXM"
+          }
+        ]
+      },
       "diting": {
         "name": {
           "zh": "Redmi K50 至尊版 / 小米 12T Pro",
@@ -168,6 +268,30 @@
           {
             "release_date": "2026-06-02",
             "version": "OS2.0.207.0.VLFMXAT"
+          }
+        ]
+      },
+      "flute": {
+        "name": {
+          "zh": "REDMI 平板 2 Pro",
+          "en": "REDMI Pad 2 Pro"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-02",
+            "version": "OS3.0.305.0.WPWCNXM"
+          }
+        ]
+      },
+      "organ": {
+        "name": {
+          "zh": "REDMI 平板 2 Pro 5G",
+          "en": "REDMI Pad 2 Pro 5G"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-05",
+            "version": "OS3.0.303.0.WPXCNXM"
           }
         ]
       },
