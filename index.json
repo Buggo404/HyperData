@@ -1,8 +1,20 @@
 {
   "recent": {
-    "time": "2026-06-09 01:15:12",
+    "time": "2026-06-10 01:08:49",
     "developing": "no",
     "roms": {
+      "xuanyuan": {
+        "name": {
+          "zh": "小米 15 Ultra",
+          "en": "Xiaomi 15 Ultra"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-09",
+            "version": "OS3.0.306.0.WOACNXM"
+          }
+        ]
+      },
       "chagall": {
         "name": {
           "zh": "Xiaomi 17T",
@@ -16,6 +28,10 @@
           {
             "release_date": "2026-06-08",
             "version": "OS3.0.301.0.WPTCNXM"
+          },
+          {
+            "release_date": "2026-06-09",
+            "version": "OS3.0.302.0.WPTINXM"
           }
         ]
       },
@@ -44,6 +60,38 @@
           {
             "release_date": "2026-06-08",
             "version": "OS3.0.1.0.WGTGTTG"
+          }
+        ]
+      },
+      "lapis": {
+        "name": {
+          "zh": "REDMI Note 15 Pro 5G",
+          "en": "REDMI Note 15 Pro 5G"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-08",
+            "version": "OS3.0.301.0.WPPTWXM"
+          },
+          {
+            "release_date": "2026-06-08",
+            "version": "OS3.0.301.0.WPPRUXM"
+          },
+          {
+            "release_date": "2026-06-08",
+            "version": "OS3.0.301.0.WPPTRXM"
+          }
+        ]
+      },
+      "mondrian": {
+        "name": {
+          "zh": "Redmi K60 / POCO F5 Pro",
+          "en": "Redmi K60 / POCO F5 Pro"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-09",
+            "version": "OS3.0.8.0.VMNCNXM"
           }
         ]
       }
