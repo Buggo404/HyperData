@@ -1,8 +1,32 @@
 {
   "recent": {
-    "time": "2026-06-10 01:08:49",
+    "time": "2026-06-11 11:27:31",
     "developing": "no",
     "roms": {
+      "houji": {
+        "name": {
+          "zh": "小米 14",
+          "en": "Xiaomi 14"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-10",
+            "version": "OS3.0.303.0.WNCCNXM"
+          }
+        ]
+      },
+      "dada": {
+        "name": {
+          "zh": "小米 15",
+          "en": "Xiaomi 15"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-10",
+            "version": "OS3.0.303.0.WOCCNXM"
+          }
+        ]
+      },
       "xuanyuan": {
         "name": {
           "zh": "小米 15 Ultra",
@@ -51,6 +75,30 @@
           }
         ]
       },
+      "pipa": {
+        "name": {
+          "zh": "小米平板 6",
+          "en": "Xiaomi Pad 6"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-08",
+            "version": "OS2.0.20.0.UMZCNXM"
+          }
+        ]
+      },
+      "fire": {
+        "name": {
+          "zh": "Redmi 12 国际",
+          "en": "Redmi 12"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-08",
+            "version": "OS2.0.203.0.VMXIDXM"
+          }
+        ]
+      },
       "lake": {
         "name": {
           "zh": "Redmi 14C",
@@ -60,6 +108,18 @@
           {
             "release_date": "2026-06-08",
             "version": "OS3.0.1.0.WGTGTTG"
+          }
+        ]
+      },
+      "gold": {
+        "name": {
+          "zh": "Redmi Note 13 5G / 13R Pro / POCO X6 Neo 5G",
+          "en": "Redmi Note 13 5G / 13R Pro / POCO X6 Neo 5G"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-10",
+            "version": "OS2.0.202.0.VNQGTTG"
           }
         ]
       },
@@ -92,6 +152,34 @@
           {
             "release_date": "2026-06-09",
             "version": "OS3.0.8.0.VMNCNXM"
+          }
+        ]
+      },
+      "dizi": {
+        "name": {
+          "zh": "Redmi Pad Pro / 哈利·波特版 / POCO Pad",
+          "en": "Redmi Pad Pro / Special Edition featuring Harry Potter / POCO Pad"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-08",
+            "version": "OS3.0.301.0.WNSEUXM"
+          },
+          {
+            "release_date": "2026-06-08",
+            "version": "OS3.0.301.0.WNSRUXM"
+          }
+        ]
+      },
+      "somalia": {
+        "name": {
+          "zh": "REDMI R70 / REDMI R70m / POCO C85x 5G",
+          "en": "REDMI R70 / REDMI R70m / POCO C85x 5G"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-09",
+            "version": "OS3.0.10.0.WBWINXM"
           }
         ]
       }
