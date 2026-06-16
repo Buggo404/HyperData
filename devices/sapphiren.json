@@ -237,7 +237,7 @@
 					"release": "2026-06-04",
 					"aspatch": "2026-05-01",
 					"recovery": "sapphiren_global-ota_full-OS2.0.210.0.VNHMIXM-user-15.0-718d4228e4.zip",
-					"fastboot": ""
+					"fastboot": "sapphiren_global_images_OS2.0.210.0.VNHMIXM_20260527.0000.00_15.0_global_cc9e4f62d5.tgz"
 				},
 				"OS2.0.209.0.VNHMIXM": {
 					"os": "OS2.0.209.0.VNHMIXM",
@@ -511,6 +511,14 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS2.0.213.0.VNHEUXM": {
+					"os": "OS2.0.213.0.VNHEUXM",
+					"android": "15.0",
+					"release": "2026-06-10",
+					"aspatch": "2026-05-01",
+					"recovery": "sapphiren_eea_global-ota_full-OS2.0.213.0.VNHEUXM-user-15.0-c45a17128f.zip",
+					"fastboot": ""
+				},
 				"OS2.0.212.0.VNHEUXM": {
 					"os": "OS2.0.212.0.VNHEUXM",
 					"android": "15.0",
