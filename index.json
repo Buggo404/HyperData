@@ -1,8 +1,20 @@
 {
   "recent": {
-    "time": "2026-06-16 10:23:10",
+    "time": "2026-06-17 07:32:33",
     "developing": "no",
     "roms": {
+      "degas": {
+        "name": {
+          "zh": "小米 14T",
+          "en": "Xiaomi 14T"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-16",
+            "version": "OS3.0.302.0.WNEMIDC"
+          }
+        ]
+      },
       "dada": {
         "name": {
           "zh": "小米 15",
@@ -39,6 +51,18 @@
           }
         ]
       },
+      "uke": {
+        "name": {
+          "zh": "小米平板 7",
+          "en": "Xiaomi Pad 7"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-16",
+            "version": "OS3.0.302.0.WOZCNXM"
+          }
+        ]
+      },
       "ruyi": {
         "name": {
           "zh": "小米 MIX Flip",
@@ -51,6 +75,54 @@
           }
         ]
       },
+      "malachite": {
+        "name": {
+          "zh": "Redmi Note 14 Pro / POCO X7",
+          "en": "Redmi Note 14 Pro / POCO X7"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-16",
+            "version": "OS3.0.2.0.WOOMXAT"
+          }
+        ]
+      },
+      "lapis": {
+        "name": {
+          "zh": "REDMI Note 15 Pro 5G",
+          "en": "REDMI Note 15 Pro 5G"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-15",
+            "version": "OS3.0.302.0.WPPMIDC"
+          },
+          {
+            "release_date": "2026-06-15",
+            "version": "OS3.0.302.0.WPPINXM"
+          },
+          {
+            "release_date": "2026-06-15",
+            "version": "OS3.0.301.0.WPPIDXM"
+          },
+          {
+            "release_date": "2026-06-15",
+            "version": "OS3.0.301.0.WPPJPXM"
+          }
+        ]
+      },
+      "rodin": {
+        "name": {
+          "zh": "REDMI Turbo 4 / POCO X7 Pro",
+          "en": "REDMI Turbo 4 / POCO X7 Pro"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-16",
+            "version": "OS3.0.303.0.WOJCNXM"
+          }
+        ]
+      },
       "zorn": {
         "name": {
           "zh": "REDMI K80 / POCO F7 Pro",
@@ -60,6 +132,18 @@
           {
             "release_date": "2026-06-15",
             "version": "OS3.0.305.0.WOKCNXM"
+          }
+        ]
+      },
+      "serenity": {
+        "name": {
+          "zh": "REDMI A5 / POCO C71",
+          "en": "REDMI A5 / POCO C71"
+        },
+        "versions": [
+          {
+            "release_date": "2026-06-16",
+            "version": "A15.0.13.0.VGWEUVF"
           }
         ]
       }
