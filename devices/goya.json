@@ -591,6 +591,14 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS3.0.301.0.WOEIDXM": {
+					"os": "OS3.0.301.0.WOEIDXM",
+					"android": "16.0",
+					"release": "2026-07-14",
+					"aspatch": "2026-06-01",
+					"recovery": "goya_id_global-ota_full-OS3.0.301.0.WOEIDXM-user-16.0-b12a1429bb.zip",
+					"fastboot": ""
+				},
 				"OS3.0.300.0.WOEIDXM": {
 					"os": "OS3.0.300.0.WOEIDXM",
 					"android": "16.0",
@@ -671,6 +679,14 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS3.0.301.0.WOETRXM": {
+					"os": "OS3.0.301.0.WOETRXM",
+					"android": "16.0",
+					"release": "2026-07-14",
+					"aspatch": "2026-06-01",
+					"recovery": "goya_tr_global-ota_full-OS3.0.301.0.WOETRXM-user-16.0-57b6133adc.zip",
+					"fastboot": ""
+				},
 				"OS3.0.300.0.WOETRXM": {
 					"os": "OS3.0.300.0.WOETRXM",
 					"android": "16.0",
@@ -757,7 +773,7 @@
 					"release": "2026-07-15",
 					"aspatch": "2026-06-01",
 					"recovery": "goya_mx_at_global-ota_full-OS3.0.301.0.WOEMXAT-user-16.0-f7931242de.zip",
-					"fastboot": ""
+					"fastboot": "goya_mx_at_global_images_OS3.0.301.0.WOEMXAT_20260622.0000.00_16.0_mx_at_52bfba56ba.tgz"
 				},
 				"OS3.0.3.0.WOEMXAT": {
 					"os": "OS3.0.3.0.WOEMXAT",
