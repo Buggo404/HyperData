@@ -1,8 +1,72 @@
 {
   "recent": {
-    "time": "2026-08-12 22:11:34",
+    "time": "2026-08-14 01:24:15",
     "developing": "no",
     "roms": {
+      "klimt": {
+        "name": {
+          "zh": "小米 15T Pro",
+          "en": "Xiaomi 15T Pro"
+        },
+        "versions": [
+          {
+            "insert_date": "2026-08-13",
+            "version": "OS3.0.336.0.XOSEUXM"
+          },
+          {
+            "insert_date": "2026-08-10",
+            "version": "OS3.0.302.0.WOSIDXM"
+          },
+          {
+            "insert_date": "2026-08-07",
+            "version": "OS3.0.301.0.WOSLMCR"
+          }
+        ]
+      },
+      "flute": {
+        "name": {
+          "zh": "REDMI 平板 2 Pro",
+          "en": "REDMI Pad 2 Pro"
+        },
+        "versions": [
+          {
+            "insert_date": "2026-08-13",
+            "version": "OS3.0.308.0.WPWCNXM"
+          },
+          {
+            "insert_date": "2026-08-10",
+            "version": "OS3.0.303.0.WPWEUXM"
+          }
+        ]
+      },
+      "taiko": {
+        "name": {
+          "zh": "REDMI 平板 2",
+          "en": "REDMI Pad 2"
+        },
+        "versions": [
+          {
+            "insert_date": "2026-08-13",
+            "version": "OS3.0.307.0.WOVCNXM"
+          },
+          {
+            "insert_date": "2026-08-07",
+            "version": "OS3.0.304.0.WOVMIXM"
+          }
+        ]
+      },
+      "duchamp": {
+        "name": {
+          "zh": "Redmi K70E / POCO X6 Pro 5G",
+          "en": "Redmi K70E / POCO X6 Pro 5G"
+        },
+        "versions": [
+          {
+            "insert_date": "2026-08-13",
+            "version": "OS3.0.9.0.WNLMIXM"
+          }
+        ]
+      },
       "athens": {
         "name": {
           "zh": "REDMI K100 Pro",
@@ -339,22 +403,6 @@
           }
         ]
       },
-      "klimt": {
-        "name": {
-          "zh": "小米 15T Pro",
-          "en": "Xiaomi 15T Pro"
-        },
-        "versions": [
-          {
-            "insert_date": "2026-08-10",
-            "version": "OS3.0.302.0.WOSIDXM"
-          },
-          {
-            "insert_date": "2026-08-07",
-            "version": "OS3.0.301.0.WOSLMCR"
-          }
-        ]
-      },
       "emerald": {
         "name": {
           "zh": "Redmi Note 13 Pro 4G / POCO M6 Pro 4G",
@@ -508,22 +556,6 @@
           {
             "insert_date": "2026-08-07",
             "version": "OS3.0.311.0.WPSEUXM"
-          }
-        ]
-      },
-      "flute": {
-        "name": {
-          "zh": "REDMI 平板 2 Pro",
-          "en": "REDMI Pad 2 Pro"
-        },
-        "versions": [
-          {
-            "insert_date": "2026-08-10",
-            "version": "OS3.0.303.0.WPWEUXM"
-          },
-          {
-            "insert_date": "2026-08-06",
-            "version": "OS3.0.303.0.WPWMIXM"
           }
         ]
       },
@@ -703,18 +735,6 @@
           }
         ]
       },
-      "taiko": {
-        "name": {
-          "zh": "REDMI 平板 2",
-          "en": "REDMI Pad 2"
-        },
-        "versions": [
-          {
-            "insert_date": "2026-08-07",
-            "version": "OS3.0.304.0.WOVMIXM"
-          }
-        ]
-      },
       "zorn": {
         "name": {
           "zh": "REDMI K80 / POCO F7 Pro",
@@ -752,30 +772,6 @@
           {
             "insert_date": "2026-08-07",
             "version": "OS3.0.304.0.WOYIDXM"
-          }
-        ]
-      },
-      "vermeer": {
-        "name": {
-          "zh": "Redmi K70 / POCO F6 Pro",
-          "en": "Redmi K70 / POCO F6 Pro"
-        },
-        "versions": [
-          {
-            "insert_date": "2026-08-06",
-            "version": "OS3.0.302.0.WNKTWXM"
-          }
-        ]
-      },
-      "ruan": {
-        "name": {
-          "zh": "Redmi Pad Pro 5G / POCO Pad 5G",
-          "en": "Redmi Pad Pro 5G / POCO Pad 5G"
-        },
-        "versions": [
-          {
-            "insert_date": "2026-08-06",
-            "version": "OS3.0.304.0.WFSINXM"
           }
         ]
       }
