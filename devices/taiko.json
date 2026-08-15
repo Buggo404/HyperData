@@ -5,7 +5,7 @@
 		"en": "REDMI Pad 2"
 	},
 	"code": "OV",
-	"suppports": [
+	"supports": [
 		"OS2.0",
 		"OS3.0"
 	],
@@ -363,7 +363,7 @@
 					"release": "2026-08-04",
 					"aspatch": "2026-08-01",
 					"recovery": "taiko_global-ota_full-OS3.0.304.0.WOVMIXM-user-16.0-cbf4baf51c.zip",
-					"fastboot": ""
+					"fastboot": "taiko_global_images_OS3.0.304.0.WOVMIXM_20260727.0000.00_16.0_global_aa5c891fdd.tgz"
 				},
 				"OS3.0.302.0.WOVMIXM": {
 					"os": "OS3.0.302.0.WOVMIXM",
@@ -477,6 +477,14 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS3.0.303.0.WOVEUXM": {
+					"os": "OS3.0.303.0.WOVEUXM",
+					"android": "16.0",
+					"release": "2026-08-10",
+					"aspatch": "2026-08-01",
+					"recovery": "taiko_eea_global-ota_full-OS3.0.303.0.WOVEUXM-user-16.0-23edd0bad2.zip",
+					"fastboot": ""
+				},
 				"OS3.0.302.0.WOVEUXM": {
 					"os": "OS3.0.302.0.WOVEUXM",
 					"android": "16.0",
