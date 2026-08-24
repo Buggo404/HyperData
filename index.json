@@ -1,8 +1,100 @@
 {
   "recent": {
-    "time": "2026-08-22 12:02:53",
+    "time": "2026-08-23 21:10:14",
     "developing": "no",
     "roms": {
+      "klimt": {
+        "name": {
+          "zh": "小米 15T Pro",
+          "en": "Xiaomi 15T Pro"
+        },
+        "versions": [
+          {
+            "insert_date": "2026-08-23",
+            "version": "OS3.0.302.0.WOSTRXM"
+          },
+          {
+            "insert_date": "2026-08-19",
+            "version": "OS3.0.302.0.WOSJPXM"
+          }
+        ]
+      },
+      "haotian": {
+        "name": {
+          "zh": "小米 15 Pro",
+          "en": "Xiaomi 15 Pro"
+        },
+        "versions": [
+          {
+            "insert_date": "2026-08-23",
+            "version": "OS2.0.7.241219.VOBCNXM.EP.STDEE"
+          }
+        ]
+      },
+      "xuanyuan": {
+        "name": {
+          "zh": "小米 15 Ultra",
+          "en": "Xiaomi 15 Ultra"
+        },
+        "versions": [
+          {
+            "insert_date": "2026-08-23",
+            "version": "OS2.0.103.250324.VOACNXM.EP.STDEE"
+          },
+          {
+            "insert_date": "2026-08-18",
+            "version": "OS3.0.302.0.WOATWXM"
+          },
+          {
+            "insert_date": "2026-08-18",
+            "version": "OS3.0.302.0.WOARUXM"
+          }
+        ]
+      },
+      "uke": {
+        "name": {
+          "zh": "小米平板 7",
+          "en": "Xiaomi Pad 7"
+        },
+        "versions": [
+          {
+            "insert_date": "2026-08-23",
+            "version": "OS2.0.7.241126.VOZCNXM.EP.STDEE"
+          },
+          {
+            "insert_date": "2026-08-18",
+            "version": "OS3.0.303.0.WOZTWXM"
+          },
+          {
+            "insert_date": "2026-08-18",
+            "version": "OS3.0.303.0.WOZTRXM"
+          }
+        ]
+      },
+      "muyu": {
+        "name": {
+          "zh": "小米平板 7 Pro",
+          "en": "Xiaomi Pad 7 Pro"
+        },
+        "versions": [
+          {
+            "insert_date": "2026-08-23",
+            "version": "OS2.0.4.241122.VOYCNXM.EP.STDEE"
+          },
+          {
+            "insert_date": "2026-08-18",
+            "version": "OS3.0.304.0.WOYRUXM"
+          },
+          {
+            "insert_date": "2026-08-18",
+            "version": "OS3.0.304.0.WOYTWXM"
+          },
+          {
+            "insert_date": "2026-08-18",
+            "version": "OS3.0.304.0.WOYTRXM"
+          }
+        ]
+      },
       "somalia": {
         "name": {
           "zh": "REDMI R70 / REDMI R70m / REDMI 17 5G / POCO C85x 5G",
@@ -519,18 +611,6 @@
           }
         ]
       },
-      "klimt": {
-        "name": {
-          "zh": "小米 15T Pro",
-          "en": "Xiaomi 15T Pro"
-        },
-        "versions": [
-          {
-            "insert_date": "2026-08-19",
-            "version": "OS3.0.302.0.WOSJPXM"
-          }
-        ]
-      },
       "turner": {
         "name": {
           "zh": "REDMI K Pad / Xiaomi Pad Mini",
@@ -544,10 +624,6 @@
           {
             "insert_date": "2026-08-17",
             "version": "OS3.0.303.0.WAOTWXM"
-          },
-          {
-            "insert_date": "2026-08-16",
-            "version": "OS3.0.304.0.WAOMIXM"
           }
         ]
       },
@@ -608,42 +684,6 @@
           {
             "insert_date": "2026-08-18",
             "version": "OS3.0.302.0.WBOEUXM"
-          }
-        ]
-      },
-      "uke": {
-        "name": {
-          "zh": "小米平板 7",
-          "en": "Xiaomi Pad 7"
-        },
-        "versions": [
-          {
-            "insert_date": "2026-08-18",
-            "version": "OS3.0.303.0.WOZTWXM"
-          },
-          {
-            "insert_date": "2026-08-18",
-            "version": "OS3.0.303.0.WOZTRXM"
-          }
-        ]
-      },
-      "muyu": {
-        "name": {
-          "zh": "小米平板 7 Pro",
-          "en": "Xiaomi Pad 7 Pro"
-        },
-        "versions": [
-          {
-            "insert_date": "2026-08-18",
-            "version": "OS3.0.304.0.WOYRUXM"
-          },
-          {
-            "insert_date": "2026-08-18",
-            "version": "OS3.0.304.0.WOYTWXM"
-          },
-          {
-            "insert_date": "2026-08-18",
-            "version": "OS3.0.304.0.WOYTRXM"
           }
         ]
       },
@@ -736,22 +776,6 @@
           {
             "insert_date": "2026-08-18",
             "version": "OS3.0.307.0.WHPCNXM"
-          }
-        ]
-      },
-      "xuanyuan": {
-        "name": {
-          "zh": "小米 15 Ultra",
-          "en": "Xiaomi 15 Ultra"
-        },
-        "versions": [
-          {
-            "insert_date": "2026-08-18",
-            "version": "OS3.0.302.0.WOATWXM"
-          },
-          {
-            "insert_date": "2026-08-18",
-            "version": "OS3.0.302.0.WOARUXM"
           }
         ]
       },
