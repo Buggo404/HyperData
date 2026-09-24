@@ -50,6 +50,14 @@
 			"zone": "1",
 			"ep": "0",
 			"roms": {
+				"OS4.0.0.40.XBLCNXM": {
+					"os": "OS4.0.0.40.XBLCNXM",
+					"android": "17.0",
+					"release": "2026-09-22",
+					"aspatch": "2026-09-01",
+					"recovery": "pandora-ota_full-OS4.0.0.40.XBLCNXM-user-17.0-6df9921d0e.zip",
+					"fastboot": ""
+				},
 				"OS4.0.0.38.XBLCNXM": {
 					"os": "OS4.0.0.38.XBLCNXM",
 					"android": "17.0",
@@ -364,7 +372,7 @@
 					"os": "OS3.0.25.0.WBLCNXM",
 					"android": "16.0",
 					"release": "2025-10-24",
-					"aspatch": "",
+					"aspatch": "2025-10-01",
 					"recovery": "pandora-ota_full-OS3.0.25.0.WBLCNXM-user-16.0-06a5de6f1d.zip",
 					"fastboot": "pandora_images_OS3.0.25.0.WBLCNXM_20251020.0000.00_16.0_cn_f916b37c70.tgz",
 					"ctelecom": "pandora_images_OS3.0.25.0.WBLCNXM_20251020.0000.00_16.0_cn_chinatelecom_7389d0dc78.tgz"

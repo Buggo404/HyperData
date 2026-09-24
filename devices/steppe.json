@@ -254,7 +254,7 @@
 					"release": "2026-09-18",
 					"aspatch": "2026-08-01",
 					"recovery": "steppe_dc_global-ota_full-OS3.0.303.0.WAVMIDC-user-16.0-230756f2ff.zip",
-					"fastboot": ""
+					"fastboot": "steppe_dc_global_images_OS3.0.303.0.WAVMIDC_20260828.0000.00_16.0_global_dc_3549cc6a77.tgz"
 				},
 				"OS3.0.301.0.WAVMIDC": {
 					"os": "OS3.0.301.0.WAVMIDC",
@@ -400,6 +400,14 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS3.0.302.0.WAVIDXM": {
+					"os": "OS3.0.302.0.WAVIDXM",
+					"android": "16.0",
+					"release": "2026-09-24",
+					"aspatch": "2026-08-01",
+					"recovery": "steppe_id_global-ota_full-OS3.0.302.0.WAVIDXM-user-16.0-c46c830939.zip",
+					"fastboot": ""
+				},
 				"OS3.0.301.0.WAVIDXM": {
 					"os": "OS3.0.301.0.WAVIDXM",
 					"android": "16.0",
@@ -440,6 +448,14 @@
 			"zone": "2",
 			"ep": "0",
 			"roms": {
+				"OS3.0.302.0.WAVTRXM": {
+					"os": "OS3.0.302.0.WAVTRXM",
+					"android": "16.0",
+					"release": "2026-09-24",
+					"aspatch": "2026-08-01",
+					"recovery": "steppe_tr_global-ota_full-OS3.0.302.0.WAVTRXM-user-16.0-26c10e26eb.zip",
+					"fastboot": ""
+				},
 				"OS3.0.301.0.WAVTRXM": {
 					"os": "OS3.0.301.0.WAVTRXM",
 					"android": "16.0",
