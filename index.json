@@ -1,8 +1,24 @@
 {
   "recent": {
-    "time": "2026-10-09 11:53:14",
+    "time": "2026-10-10 12:20:49",
     "developing": "no",
     "roms": {
+      "zephyr": {
+        "name": {
+          "zh": "REDMI Note 17 4G",
+          "en": "REDMI Note 17 4G"
+        },
+        "versions": [
+          {
+            "insert_date": "2026-10-10",
+            "version": "OS3.0.303.0.WBULMCR"
+          },
+          {
+            "insert_date": "2026-10-08",
+            "version": "OS3.0.304.0.WBUTRXM"
+          }
+        ]
+      },
       "malachite": {
         "name": {
           "zh": "Redmi Note 14 Pro / POCO X7",
@@ -27,12 +43,60 @@
           }
         ]
       },
+      "dijun": {
+        "name": {
+          "zh": "小米 15S Pro",
+          "en": "Xiaomi 15S Pro"
+        },
+        "versions": [
+          {
+            "insert_date": "2026-10-09",
+            "version": "OS3.0.304.0.WODCNXM"
+          }
+        ]
+      },
+      "plato": {
+        "name": {
+          "zh": "小米 12T",
+          "en": "Xiaomi 12T"
+        },
+        "versions": [
+          {
+            "insert_date": "2026-10-09",
+            "version": "OS2.0.219.0.VLQMIXM"
+          },
+          {
+            "insert_date": "2026-10-09",
+            "version": "OS2.0.218.0.VLQEUXM"
+          }
+        ]
+      },
+      "hongkong": {
+        "name": {
+          "zh": "小米 18 Pro",
+          "en": "Xiaomi 18 Pro"
+        },
+        "versions": [
+          {
+            "insert_date": "2026-10-09",
+            "version": "OS4.0.24.0.XFRCNXM"
+          },
+          {
+            "insert_date": "2026-10-04",
+            "version": "OS4.0.18.0.XFRCNXM"
+          }
+        ]
+      },
       "madrid": {
         "name": {
           "zh": "小米 18 Pro Max",
           "en": "Xiaomi 18 Pro Max"
         },
         "versions": [
+          {
+            "insert_date": "2026-10-09",
+            "version": "OS4.0.24.0.XEOCNXM"
+          },
           {
             "insert_date": "2026-10-08",
             "version": "OS4.0.22.0.XEOCNXM"
@@ -347,18 +411,6 @@
           }
         ]
       },
-      "zephyr": {
-        "name": {
-          "zh": "REDMI Note 17 4G",
-          "en": "REDMI Note 17 4G"
-        },
-        "versions": [
-          {
-            "insert_date": "2026-10-08",
-            "version": "OS3.0.304.0.WBUTRXM"
-          }
-        ]
-      },
       "serenity": {
         "name": {
           "zh": "REDMI A5 / POCO C71",
@@ -396,18 +448,6 @@
           {
             "insert_date": "2026-10-04",
             "version": "OS3.0.312.0.WMBCNXM"
-          }
-        ]
-      },
-      "hongkong": {
-        "name": {
-          "zh": "小米 18 Pro",
-          "en": "Xiaomi 18 Pro"
-        },
-        "versions": [
-          {
-            "insert_date": "2026-10-04",
-            "version": "OS4.0.18.0.XFRCNXM"
           }
         ]
       }
